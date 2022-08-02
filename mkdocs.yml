@@ -67,7 +67,7 @@ plugins:
 - search
 - mkdocstrings
 - autolinks
-- macros
+# - macros
 
 - rss:
     abstract_chars_count: 160

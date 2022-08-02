@@ -912,7 +912,7 @@
   }
 }
  
- .row {
+.row {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -925,8 +925,7 @@
   border-radius: 50% !important;
 }
 
-.mr-auto,
-.mx-auto {
+.mr-auto,.mx-auto {
   margin-right: auto !important;
 }
 

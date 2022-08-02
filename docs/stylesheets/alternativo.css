@@ -11,8 +11,7 @@
   border-radius: 50% !important;
 }
 
-.mr-auto,
-.mx-auto {
+.mr-auto,.mx-auto {
   margin-right: auto !important;
 }
 

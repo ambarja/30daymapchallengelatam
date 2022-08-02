@@ -21,10 +21,10 @@ jobs:
       - run: pip install mkdocs-material-extensions>=1.0
       - run: pip install mkdocstrings
       - run: pip install mkdocs-autolinks-plugin
-#      - run: pip install mkdocs-macros-plugin
+      - run: pip install mkdocs-macros-plugin
       - run: pip install mkdocs-click
       - run: pip install Pygments>=2.4
       - run: pip install pymdown-extensions>=9.0
       - run: pip install mkdocs-rss-plugin
-#     - run: pip install mkdocs-mermaid2-plugin
+      - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force

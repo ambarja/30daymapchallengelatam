@@ -81,14 +81,9 @@ hide:
                            </a>
                         </div>
                         <div class="service_content">
-                            <h4 class="service_title">
-                              <a href="calcolatore_campi/field_calc/" title="Il calcolatore di campi" target="_parent">
-                              Open Street Map Perú
-                              </a>
+                            <h4 class="service_title" align="center">
+                              OpenStreet Map Perú
                             </h4>
-                            <p>
-                            <a href="#" title="" target="_parent">
-                            </p>
                         </div>
                     </div> 
 	<!-- single service -->

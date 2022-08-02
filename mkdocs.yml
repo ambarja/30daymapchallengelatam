@@ -52,7 +52,7 @@ theme:
     - search.share
   palette:
     primary: amber
-    accent: deep black
+    accent: amber
   font:
     text: Open Sans
     code: Cutive Mono

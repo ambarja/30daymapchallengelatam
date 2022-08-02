@@ -38,7 +38,7 @@ hide:
 <h5 class="service_title">
  <a href="https://mailchi.mp/a50b90870c50/in-arrivo-primo-geobreak-ottobre?fbclid=IwAR1ZFUGegfy9XKiW0ien4DFi25dvEbqh3FWgUPudG7_1aMhukBWN4PRUES8" title="GeoBreak 02 Gter | Programma" target="_blank">Programma</a><br>
   <!--  fine testo Gter -->
-<body>
+<body>  
   <!-- Team -->
     <div class="container">
       <div class="row">
@@ -50,9 +50,8 @@ hide:
       <div class="row">
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="../img/faccioni/andreaBorruso.png" alt="">
-            <h4>Andrea Borruso</h4>
-            <p class="text-muted"><a href="https://medium.com/tantotanto" title="Andrea Borruso | tanto tanto Le cose che ci piacciono…" target="_blank">Coordinatore</a></p>
+            <img class="mx-auto rounded-circle" src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg" alt="osm">
+            <h4>OpenStreetMap-Perú</h4>
 				<div>
                 <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">
                  <span class="fa-stack fa-lg">

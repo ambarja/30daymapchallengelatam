@@ -35,7 +35,7 @@ hide:
  
   <!--  inizio blocco pubblicità -->
   
- <!--  inizio testo Gter -->
+  <!-- inizio testo Gter -->
 <!-- <a href="https://github.com/pigreco/geobreack_02_by_Gter" target="_blank"><img class="center" src="img/geobreak_02_gter.jpg" alt="GeoBreak 02 Gter | Programma" title="GeoBreak 02 Gter | Programma"/></a>
 <h5 class="service_title">
  <a href="https://mailchi.mp/a50b90870c50/in-arrivo-primo-geobreak-ottobre?fbclid=IwAR1ZFUGegfy9XKiW0ien4DFi25dvEbqh3FWgUPudG7_1aMhukBWN4PRUES8" title="GeoBreak 02 Gter | Programma" target="_blank">Programma</a><br>
@@ -51,6 +51,32 @@ hide:
                 </div>
             </div>
 <!-- row -->
+
+  <section id="team">
+      <div class="row mt-5 pt-4">
+        <div class="col-lg-3 col-md-6 mt-3">
+          <div class="card">
+            <div class="card-body">
+              <img
+                src="https://user-images.githubusercontent.com/55163339/158332004-15dfd37c-a128-4f56-9ef7-d62a8fa8319c.png"
+                class="img-fluid">
+              <h3>Example 01</h3>
+              <p>
+                Display list of available cptcity palettes.
+              </p>
+              <div class="d-flex flex-row justify-content-center">
+                <div class="p-1">
+                  <a href="https://code.earthengine.google.com/690638e0150ff3ab7787a5aae16935e2"><img
+                      src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
+                      align="center" width="195px">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
             <!-- <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.2s">

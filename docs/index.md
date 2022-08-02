@@ -81,9 +81,9 @@ hide:
                            </a>
                         </div>
                         <div class="service_content">
-                            <h4 class="service_title" align="center">
+                            <h5 class="service_title" align="center">
                               OpenStreet Map Perú
-                            </h4>
+                            </h5>
                         </div>
                     </div> 
 	<!-- single service -->

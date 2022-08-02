@@ -65,8 +65,8 @@ theme:
   
 plugins:
 - search
-- mkdocstrings
-- autolinks
+#- mkdocstrings
+#- autolinks
 # - macros
 
 - rss:

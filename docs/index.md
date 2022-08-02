@@ -17,6 +17,8 @@ hide:
 <link rel="stylesheet" href="stylesheets/hfc_home.css"> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" type="text/css"/> 
+<!-- bootstrap-toc -->
+<script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
 <!-- Masthead-->
         <header class="masthead">
             <div class="container">
@@ -58,12 +60,9 @@ hide:
           <div class="card">
             <div class="card-body">
               <img
-                src="https://user-images.githubusercontent.com/55163339/158332004-15dfd37c-a128-4f56-9ef7-d62a8fa8319c.png"
+                src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg"
                 class="img-fluid">
-              <h3>Example 01</h3>
-              <p>
-                Display list of available cptcity palettes.
-              </p>
+              <h3>Open Street Map Perú</h3>
               <div class="d-flex flex-row justify-content-center">
                 <div class="p-1">
                   <a href="https://code.earthengine.google.com/690638e0150ff3ab7787a5aae16935e2"><img

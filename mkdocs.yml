@@ -1,16 +1,16 @@
 ## Project information
-site_name: Help field calculator
+site_name: 30daymapchallengelatam
 site_url: https://ambarja.github.io/30daymapchallengelatam/
 site_description: 🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año📅 empleando software libre de código abierto con datos abiertos 🌎🐧.
-site_author: by OpenDataSicilia.it
+site_author: https://ambarja.github.io/
 
 ## Repository
-repo_name: OpenDataSicilia/HfcQGIS
+repo_name: 
 repo_url: https://github.com/opendatasicilia/HfcQGIS-md
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://hfcqgis.opendatasicilia.it/privacy/" title="Informativa privacy estesa" target="_parent">Privacy</a> | <a href="https://hfcqgis.opendatasicilia.it/tags/" title="Tags" target="_parent">Tags</a> | <a href="https://hfcqgis.opendatasicilia.it/LICENSE_my/" title="Licenza" target="_parent" class="link-dark text-decoration-none">Licenza</a> 
+copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Creado por <b>Antony Barja| @antony_barja</b></a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
 
 ## Social Media
 extra:
@@ -41,9 +41,9 @@ extra:
       link: https://hfcqgis.opendatasicilia.it/feed_rss_created.xml
       name: Feed RSS
 
-  analytics:
-    provider: google
-    property: UA-122084242-1
+  #analytics:
+    #provider: google
+    #property: UA-122084242-1
 
 ## Configuration
 theme:

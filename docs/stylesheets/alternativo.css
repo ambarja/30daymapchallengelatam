@@ -35,11 +35,6 @@ ul.social-buttons li a {
   background-color: #212529;
 }
 
-.team-member {
-  margin-bottom: 50px;
-  text-align: center;
-}
-
 .team-member img {
   width: 225px;
   height: 225px;
@@ -47,7 +42,7 @@ ul.social-buttons li a {
 }
 
 .team-member h4 {
-	font-size: 1rem!important;
+  font-size: 1rem!important;
   margin-top: 25px;
   margin-bottom: 0;
   text-transform: none;
@@ -57,11 +52,14 @@ ul.social-buttons li a {
   margin-top: 0;
 }
 
-
-
-
-
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #105099;
 }
+
+.team-member {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+
 

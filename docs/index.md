@@ -39,6 +39,7 @@ hide:
  <a href="https://mailchi.mp/a50b90870c50/in-arrivo-primo-geobreak-ottobre?fbclid=IwAR1ZFUGegfy9XKiW0ien4DFi25dvEbqh3FWgUPudG7_1aMhukBWN4PRUES8" title="GeoBreak 02 Gter | Programma" target="_blank">Programma</a><br>
   <!--  fine testo Gter -->
 <body>  
+   <link href="../stylesheets/alternativo.css" rel="stylesheet">
   <!-- Team -->
     <div class="container">
       <div class="row">
@@ -50,8 +51,8 @@ hide:
       <div class="row">
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg" alt="osm">
-            <h4>OpenStreetMap-Perú</h4>
+            <img class="circular_image" src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg" alt="osm">
+            <h5>OpenStreetMap-Perú</h5>
 				<div>
                 <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">
                  <span class="fa-stack fa-lg">

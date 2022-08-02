@@ -19,6 +19,7 @@ jobs:
       - run: pip install mkdocs>=1.2.3      
       - run: pip install mkdocs-material
       - run: pip install mkdocs-material-extensions>=1.0
+      - run: pip install mkdocstrings
 #      - run: pip install mkdocs-macros-plugin
       - run: pip install mkdocs-click
       - run: pip install Pygments>=2.4

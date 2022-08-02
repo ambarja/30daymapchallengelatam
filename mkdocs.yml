@@ -1,13 +1,13 @@
 ## Project information
 site_name: 30daymapchallengelatam
-site_url: https://ambarja.github.io/30daymapchallengelatam/
+site_url: https://github.com/ambarja/30DayMapChallengeLatam
 site_description: 🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año📅 empleando software libre de código abierto con datos abiertos 🌎🐧.
 site_author: https://ambarja.github.io/
 
 ## Repository
 repo_name: 
 repo_url: https://ambarja.github.io/30daymapchallengelatam/
-edit_uri: edit/main/docs/ #disables edit button
+edit_uri: edit/main/docs/ 
 
 # Copyright
 copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Creado por <b>Antony Barja| @antony_barja</b></a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
@@ -20,26 +20,14 @@ extra:
       link: https://hfcqgis.opendatasicilia.it/
       name: Home Page
     - icon: fontawesome/brands/twitter
-      link: http://twitter.com/opendatasicilia
-      name: account twitter
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/groups/opendatasicilia/
-      name: gruppo facebook OpenDataSicilia
+      link: https://twitter.com/antony_barja
+      name: account twitter  
     - icon: fontawesome/brands/github
-      link: https://github.com/opendatasicilia/HfcQGIS-md
+      link: https://github.com/ambarja/30DayMapChallengeLatam
       name: Repository GitHub
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/opendatasicilia
-      name: gruppo Telegram OpenDataSicilia
-    - icon: fontawesome/solid/envelope
-      link: https://groups.google.com/forum/#!forum/opendatasicilia
-      name: mailing list OpenDataSicilia
     - icon: fontawesome/brands/paypal
-      link: https://www.paypal.com/paypalme/pigrecoinfinito
-      name: Donazione a HfcQGIS con PayPal
-    - icon: fontawesome/solid/rss
-      link: https://hfcqgis.opendatasicilia.it/feed_rss_created.xml
-      name: Feed RSS
+      link: https://www.paypal.com/paypalme/ambarja
+      name: Donación a 30daymapchallengelatam con PayPal
 
   #analytics:
     #provider: google

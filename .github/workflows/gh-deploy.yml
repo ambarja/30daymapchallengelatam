@@ -22,7 +22,7 @@ jobs:
       - run: pip install mkdocs-macros-plugin
       - run: pip install mkdocs-click
       - run: pip install mkdocstrings
-      - run: pip install autolinks
+      - run: pip install mkdocs-autolinks-plugin
       - run: pip install Pygments>=2.4
       - run: pip install pymdown-extensions>=9.0
       - run: pip install mkdocs-rss-plugin

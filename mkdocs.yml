@@ -1,0 +1,125 @@
+## Project information
+site_name: "30DayMapChallengeLatam"
+site_url: https://ambarja.github.io/30daymapchallengelatam
+site_description: 🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año📅 empleando software libre de código abierto con datos abiertos 🌎🐧.
+site_author: https://ambarja.github.io/
+
+## Repository
+repo_name: 30DayMapChallengeLatam
+repo_url: https://github.com/ambarja/30DayMapChallengeLatam
+edit_uri: edit/main/docs/ #disables edit button
+
+# Copyright
+copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Creado por <b>Antony Barja| @antony_barja</b></a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
+
+## Social Media
+extra:
+  manifest: "manifest.webmanifest"
+  social:
+    - icon: fontawesome/solid/home
+      link: https://gitlab.com/opendb-pe/data-catalog
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/antony_barja
+
+  # analytics:
+  #   provider: google
+  #   property: UA-122084242-1
+
+# Configuration
+theme:
+  name: material
+  custom_dir: docs/theme_override/
+  static_templates:
+    - 404.html
+  language: es
+  features:
+    - navigation.top
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.highlight
+    - search.share
+    - search.suggest
+
+  palette:
+    - scheme: default
+      primary: amber
+      accent: deep black
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep black
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+  font:
+    text: Lato
+    code: Roboto Mono
+  favicon: imgs/favicon.ico
+  icon:
+    #  logo: fontawesome/solid/book-reader
+  logo: imgs/30DMC_Tag_.svg
+plugins:
+- search
+- mkdocstrings
+- autolinks
+- macros
+
+- rss:
+    abstract_chars_count: 160
+    date_from_meta:
+        as_creation: "date"
+        as_update: false
+        datetime_format: "%d-%m-%Y"
+    # datetime_format: "%Y-%m-%d"
+    feed_ttl: 1440
+    length: 20
+    pretty_print: false
+    match_path: ".*"
+    url_parameters:
+        utm_source: "documentation"
+        utm_medium: "RSS"
+        utm_campaign: "feed-syndication"
+
+markdown_extensions:
+- toc:
+        permalink: ↵
+- meta
+- mkdocs-click
+- pymdownx.highlight
+- pymdownx.superfences
+- pymdownx.tabbed
+- pymdownx.critic:
+      mode: view
+- pymdownx.betterem:
+      smart_enable: all
+- pymdownx.caret
+- pymdownx.mark
+- pymdownx.tilde
+- pymdownx.smartsymbols
+- admonition
+- pymdownx.details
+- pymdownx.tasklist:
+      clickable_checkbox: true
+- pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+- attr_list
+- def_list
+- abbr
+- pymdownx.snippets
+- footnotes
+
+## Custom theme additions
+extra_javascript:
+   - stylesheets/extra.js
+
+extra_css:
+   - stylesheets/gbextra.css
+
+## Page tree
+nav:
+    - Inicio : index.md

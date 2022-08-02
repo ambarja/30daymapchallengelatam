@@ -1,0 +1,33 @@
+image: python:latest
+pages:
+  stage: deploy
+  only: 
+    - master
+    - main
+  script:
+    - pip install mkdocs-material
+    - pip install requests_oauthlib
+    - pip install click
+    - pip install click-plugins
+    - pip install click-config-file
+    - pip install pytest
+    - pip install mkdocs
+    - pip install mkdocstrings
+    - pip install mkdocs-click
+    - pip install pygments
+    - pip install pymdown-extensions
+    - pip install mkdocs-autolinks-plugin
+    - pip install mkdocs-jupyter
+    - pip install mkdocs-exclude
+    - pip install mkdocs-exclude-search
+    - pip install mkdocs-macros-plugin
+    - pip install mkdocs-print-site-plugin
+    - pip install mkdocs-pdf-export-plugin
+    - pip install mkdocs-git-revision-date-localized-plugin
+    - pip install mkdocs-windmill
+    - pip install mkdocs-img2fig-plugin
+    - pip install mkdocs-rss-plugin
+    - mkdocs build --site-dir public
+  artifacts:
+    paths:
+      - public

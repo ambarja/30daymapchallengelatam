@@ -31,6 +31,11 @@
  /*sposta più in alto il back to top in mobile se è installata la condivisione social;*/
  @media screen and (max-width: 1100px) { .md-top {bottom: 2.5rem!important;}} 
 
+/* riduce il padding tra i nomi delle varie sezioni*/
+.md-tabs__item {
+    padding-left: .5rem!important; 
+    padding-right: .5rem!important; 
+}
 
 /* Cambia il carattere dei menu */
 .md-typeset h1,
@@ -359,4 +364,9 @@ max-height:100px;
     margin: auto .6rem;
     padding: .4rem 0;
   /*  width: 100%;*/
+  }
   
+.banner {  color: #f0ea65 !important; }
+.banner:link {  color: #f0ea65 !important; }
+.banner:visited {  color: #f0ea65 !important; }
+.banner:hover {  color: #f0ea65 !important; text-decoration:underline;}

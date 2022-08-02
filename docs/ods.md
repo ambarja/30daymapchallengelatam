@@ -19,6 +19,7 @@ Capita spesso, con tutte le buone intenzioni, di scrivere frasi come questa, ma 
 
 <body>
  <link href="../stylesheets/team.css" rel="stylesheet">
+ <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   <!-- Team -->
     <div class="container">
       <div class="row">

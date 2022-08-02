@@ -58,9 +58,9 @@ theme:
   font:
     text: Lato
     code: Roboto Mono
-  favicon: imgs/favicon.ico
+  favicon: docs/imgs/favicon.ico
   icon:
-    logo: imgs/30DMC_Tag_.svg
+    logo: docs/imgs/30DMC_Tag_.svg
 plugins:
 - search
 - mkdocstrings

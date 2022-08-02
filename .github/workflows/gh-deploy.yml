@@ -34,4 +34,5 @@ jobs:
       - run: pip install mkdocs-windmill
       - run: pip install mkdocs-img2fig-plugin
       - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force

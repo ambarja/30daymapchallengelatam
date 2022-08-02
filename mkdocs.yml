@@ -1,7 +1,7 @@
 ## Project information
 site_name: Help field calculator
 site_url: https://ambarja.github.io/30daymapchallengelatam/
-site_description: Help funzioni calcolatore di campi di QGIS
+site_description: 🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año📅 empleando software libre de código abierto con datos abiertos 🌎🐧.
 site_author: by OpenDataSicilia.it
 
 ## Repository
@@ -53,7 +53,7 @@ theme:
     - 404.html
   palette:
     scheme: preference
-  language: it
+  language: es
   features:
     - navigation.top
 #   - navigation.instant
@@ -63,14 +63,14 @@ theme:
   # - search.highlight
     - search.share
   palette:
-    primary: deep orange
-    accent: green
+    primary: amber
+    accent: deep black
   font:
     text: Open Sans
     code: Cutive Mono
   favicon: img/favicon.ico
   icon:
-  logo: img/logo_hfc_white.svg
+  logo: img/30DMC_Tag_.svg
 
 plugins:
 - tags:

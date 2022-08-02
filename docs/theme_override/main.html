@@ -1,11 +1,17 @@
 <!-- Elements added to main will be displayed on all pages -->
 {% extends "base.html" %}
-   
- <!-- Announcement bar -->
+
+<!-- Announcement bar -->
 {% block announce %}
-<style>.md-banner {background-color: #497d29;</style><strong>Se HfcQGIS ti è stato utile, valuta la possibilità di contribuire,</strong>
-   <a href="{{ config.site_url}}contributing/" class="nomobile banner" title="Contribuire a HfcQGIS" target="_parent"><strong>leggi la sezione Sostieni</strong></a><a href="https://www.paypal.com/paypalme/pigrecoinfinito" class="nomobile banner " target="_blank" title=" Donazione a HfcQGIS con PayPal" >&nbsp;&nbsp;<i class="fa fa-paypal" aria-hidden="true"></i></a> 
-{% endblock %} 
+<style>
+ .md-banner {
+  background-color: #000000cb;
+</style><strong>Si OpenSDB-PE le ha sido utilidad,considere la posibilidad de contribuir al proyecto,</strong>
+<a href="{{ config.site_url}}contributing/" class="nomobile" title="Contribuir a OpenSDB-PE"
+ target="_parent"><strong>lea la sección de apoyo.</strong></a> <a href="https://paypal.me/ambarja" class="nomobile"
+ target="_blank" title="Donación a OpenSDB-PE por Paypal">&nbsp;&nbsp;<i class="fab fa-paypal"
+  aria-hidden="true"></i></a>
+{% endblock %}
 
 {% block libs %}
 {{ super() }}
@@ -14,10 +20,10 @@
 {% endblock %}
 
 <!-- blocco meta tag e social -->
-{% block extrahead %} 
-<!-- Social card -->	 
+{% block extrahead %}
+<!-- Social card -->
 {% include "partials/social_card.html" %}
-<!-- Meta tags --> 
+<!-- Meta tags -->
 {% include "partials/metatag_rss.html" %}
 {% endblock %}
 
@@ -25,8 +31,8 @@
 <!-- pulsante stampa 	-->
 
 {{ super() }}
- <!-- zoomn image  -->
- {% include "partials/zoom_image_simple-lightbox.html" %}
+<!-- zoomn image  -->
+{% include "partials/zoom_image_simple-lightbox.html" %}
 {% endblock content %}
 
 {% block scripts %}

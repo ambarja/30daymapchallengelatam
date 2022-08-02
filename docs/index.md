@@ -115,9 +115,9 @@ hide:
                     <div class="col-lg-12">
                       <div class="header_hero_content mt-45"> 
                         <br><hr><br>
-                        <h4 class="service_title"> ⚠️ !IMPORTANTE!</h4>
-                          <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">30daymapchallengelatam NO sustituye a <a href="https://30daymapchallenge.com/" title="30daymapchallenge" target="_blank">30daymapchallenge</a> sólo trata de facilitar la difusión y realización en Latinoámerica.<br>
-La versión modificada del formato <a href="https://squidfunk.github.io/mkdocs-material/" title="MkDocs" target="_blank">MkDocs</a> fue realizada por la comunidad <a href="https://hfcqgis-md.readthedocs.io/it/latest/ods/" title="OpenDataSicilia"><strong>OpenDataSicilia</strong></a>, en particular por:<br> <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">Andrea Borruso</a>, <a href="https://twitter.com/totofiandaca" title="Totò Fiandaca" target="_blank">Totò Fiandaca</a> e <a href="https://twitter.com/gbvitrano" title="Giovan Battista Vitrano" target="_blank">Giovan Battista Vitrano</a> utilizzando il tema <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">Material for MkDocs</a></p>
+                        <h4 class="service_title"> ⚠️ ! IMPORTANTE !</h4>
+                          <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">30daymapchallengelatam NO sustituye a <a href="https://30daymapchallenge.com/" title="30daymapchallenge" target="_blank"><b>30daymapchallenge, </b></a> sólo trata de facilitar la difusión y realización en Latinoámerica.<br>
+La versión modificada del formato <a href="https://squidfunk.github.io/mkdocs-material/" title="MkDocs" target="_blank">MkDocs</a> fue realizada por la comunidad <a href="https://hfcqgis-md.readthedocs.io/it/latest/ods/" title="OpenDataSicilia"><strong>OpenDataSicilia</strong></a>, en particular por:<br> <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">Andrea Borruso</a>, <a href="https://twitter.com/totofiandaca" title="Totò Fiandaca" target="_blank">Totò Fiandaca</a> y <a href="https://twitter.com/gbvitrano" title="Giovan Battista Vitrano" target="_blank">Giovan Battista Vitrano</a> utilizando el tema <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">Material for MkDocs</a></p>
                           </div> 
                   </div>
 

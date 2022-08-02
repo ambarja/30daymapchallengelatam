@@ -17,8 +17,6 @@ hide:
 <link rel="stylesheet" href="stylesheets/hfc_home.css"> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" type="text/css"/> 
-<!-- bootstrap-toc -->
-<script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
 <!-- Masthead-->
         <header class="masthead">
             <div class="container">
@@ -54,7 +52,7 @@ hide:
             </div>
 <!-- row -->
 
-  <section id="team">
+  <!-- <section id="team">
       <div class="row mt-5 pt-4">
         <div class="col-lg-3 col-md-6 mt-3">
           <div class="card">
@@ -73,21 +71,24 @@ hide:
               </div>
             </div>
           </div>
-        </div>
-
-
-            <!-- <div class="row">
+        </div> -->
+<div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.2s">
                         <div class="service_icon">
                            <a href="calcolatore_campi/field_calc/" title="Il calcolatore di campi" target="_parent"> <i class="fas fa-calculator fa-5x"></i></a>
                         </div>
                         <div class="service_content">
-                            <h4 class="service_title"><a href="calcolatore_campi/field_calc/" title="Il calcolatore di campi" target="_parent">Field Calculator</a></h4>
-                            <p><a href="calcolatore_campi/field_calc/" title="Il calcolatore di campi" target="_parent">Il calcolatore di campi</a> consente di eseguire calcoli sulla base di valori di attributo esistenti o funzioni definite, ad esempio, per calcolare la lunghezza o l'area delle caratteristiche geometriche.<br>
-                            I risultati possono essere scritti in un nuovo campo di attributo, un campo virtuale, oppure possono essere utilizzati per aggiornare i valori in un campo esistente.</p>
+                            <h4 class="service_title">
+                              <a href="calcolatore_campi/field_calc/" title="Il calcolatore di campi" target="_parent">
+                              Open Street Map Perú
+                              </a>
+                            </h4>
+                            <p>
+                            <a href="#" title="" target="_parent">
+                            </p>
                         </div>
-                    </div>  -->
+                    </div> 
 	<!-- single service -->
                 <!-- </div>
                 <div class="col-lg-3 col-sm-6">

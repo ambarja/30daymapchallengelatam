@@ -29,7 +29,7 @@ hide:
                 <h3 class="main_title">30DMCLATAM: Desafío de los mapas en 30 días en Latinoamérica</h3><br>
   <h5 class="sub_title">🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año📅 empleando software libre de código abierto con datos abiertos 🌎🐧</h5> <br>
   <hr>
-  <h3 class="main_title">  <a href="https://hfcqgis.opendatasicilia.it/esempi/lista_esempi/" title="Patrocinio y Auspiciadores" target="_parent">75+ Esempi Svolti!</a></h3>
+  <h3 class="main_title">  <a href="https://hfcqgis.opendatasicilia.it/esempi/lista_esempi/" title="Patrocinio y Auspiciadores" target="_parent">Patrocinio y Auspiciadores</a></h3>
 
  <hr>
  

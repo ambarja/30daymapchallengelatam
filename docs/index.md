@@ -51,28 +51,66 @@ hide:
                 </div>
             </div>
 <!-- row -->
-
-  <!-- <section id="team">
-      <div class="row mt-5 pt-4">
-        <div class="col-lg-3 col-md-6 mt-3">
-          <div class="card">
-            <div class="card-body">
-              <img
-                src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg"
-                class="img-fluid">
-              <h3>Open Street Map Perú</h3>
-              <div class="d-flex flex-row justify-content-center">
-                <div class="p-1">
-                  <a href="https://code.earthengine.google.com/690638e0150ff3ab7787a5aae16935e2"><img
-                      src="https://img.shields.io/badge/Open_Code_Editor-black?style=for-the-badge&amp;logo=googleearth"
-                      align="center" width="195px">
-                  </a>
-                </div>
-              </div>
-            </div>
+<body>
+ <link href="../stylesheets/team.css" rel="stylesheet">
+  <!-- Team -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+      <!--    <h2 class="section-heading text-uppercase">CHI SIAMO</h2> -->
+          <h3 class="section-subheading text-muted">I criceti che hanno fatto girare la ruota.</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="../img/faccioni/andreaBorruso.png" alt="">
+            <h4>Andrea Borruso</h4>
+            <p class="text-muted"><a href="https://medium.com/tantotanto" title="Andrea Borruso | tanto tanto Le cose che ci piacciono…" target="_blank">Coordinatore</a></p>
+				<div>
+                <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">
+                 <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span> </a>
+				</div>
           </div>
-        </div> -->
-<div class="row">
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="../img/faccioni/salvatoreFiandaca_02.png" alt="">
+            <h4>Salvatore Fiandaca</a></h4>
+        <p class="text-muted"><a href="../autore/" title="Salvatore Fiandaca | Autore e curatore di HfcQGIS" target="_self">Autore e curatore di HfcQGIS</a></p> 
+			<div>
+                <a href="https://twitter.com/totofiandaca" title="Salvatore Fiandaca" target="_blank">
+                 <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span> </a>
+				</div>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="../img/faccioni/gianniVitrano.png" alt="">
+            <h4>Giovan Battista Vitrano</h4>
+            <p class="text-muted"><a href="../webmaster/gbvitrano/" title="Giovan Battista Vitrano | Webmaster" target="_self">Webmaster</a></p> 
+			 <div><a href="https://twitter.com/gbvitrano" title="Giovan Battista Vitrano" target="_blank">
+                 <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span></a>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+        </div>
+      </div>
+    </div>
+</body>
+<!-- <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.2s">
                         <div class="service_icon">
@@ -85,8 +123,9 @@ hide:
                               OpenStreet Map Perú
                             </h5>
                         </div>
-                    </div> 
-	<!-- single service -->
+                    </div>  -->
+
+<!-- single service -->
                 <!-- </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.5s">

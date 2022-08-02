@@ -39,7 +39,7 @@ hide:
  <a href="https://mailchi.mp/a50b90870c50/in-arrivo-primo-geobreak-ottobre?fbclid=IwAR1ZFUGegfy9XKiW0ien4DFi25dvEbqh3FWgUPudG7_1aMhukBWN4PRUES8" title="GeoBreak 02 Gter | Programma" target="_blank">Programma</a><br>
   <!--  fine testo Gter -->
 <body>  
-   <link href="../stylesheets/alternativo.css" rel="stylesheet">
+<link href="./stylesheets/alternativo.css" rel="stylesheet">
   <!-- Team -->
     <div class="container">
       <div class="row">

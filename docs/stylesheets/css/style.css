@@ -970,7 +970,7 @@ p {
   background-color: #fff; }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
     .single_service {
-      padding: 20px; } }
+      padding: 15px; } }
   .single_service .service_icon i {
     width: 80px;
     height: 80px;
@@ -993,7 +993,8 @@ p {
         line-height: 60px;
         font-size: 36px; } }
   .single_service .service_content {
-    margin-top: 25px; }
+    margin-top: 10px;
+    margin-bottom: -2.0rem; }
     .single_service .service_content .service_title a {
       font-size: 22px;
       font-weight: 600;

@@ -60,8 +60,7 @@ theme:
     code: Roboto Mono
   favicon: imgs/favicon.ico
   icon:
-    #  logo: fontawesome/solid/book-reader
-  logo: imgs/30DMC_Tag_.svg
+    logo: imgs/30DMC_Tag_.svg
 plugins:
 - search
 - mkdocstrings

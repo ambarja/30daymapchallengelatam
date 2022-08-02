@@ -76,7 +76,9 @@ hide:
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.2s">
                         <div class="service_icon">
-                           <a href="calcolatore_campi/field_calc/" title="Il calcolatore di campi" target="_parent"> <i class="fas fa-calculator fa-5x"></i></a>
+                           <a href="calcolatore_campi/field_calc/" title="Il calcolatore di campi" target="_parent">
+                             <img src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg"/>
+                           </a>
                         </div>
                         <div class="service_content">
                             <h4 class="service_title">

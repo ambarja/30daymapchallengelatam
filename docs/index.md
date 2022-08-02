@@ -29,7 +29,7 @@ hide:
                 <h3 class="main_title">30DMCLATAM: Desafío de los mapas en 30 días en Latinoamérica</h3><br>
   <h5 class="sub_title">🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año📅 empleando software libre de código abierto con datos abiertos 🌎🐧</h5> <br>
   <hr>
-  <h3 class="main_title">  <a href="https://hfcqgis.opendatasicilia.it/esempi/lista_esempi/" title="75+ Esempi Svolti! | Programma" target="_parent">75+ Esempi Svolti!</a></h3>
+  <h3 class="main_title">  <a href="https://hfcqgis.opendatasicilia.it/esempi/lista_esempi/" title="Patrocinio y Auspiciadores" target="_parent">75+ Esempi Svolti!</a></h3>
 
  <hr>
  
@@ -51,7 +51,7 @@ hide:
                 </div>
             </div>
 <!-- row -->
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.2s">
                         <div class="service_icon">
@@ -62,9 +62,9 @@ hide:
                             <p><a href="calcolatore_campi/field_calc/" title="Il calcolatore di campi" target="_parent">Il calcolatore di campi</a> consente di eseguire calcoli sulla base di valori di attributo esistenti o funzioni definite, ad esempio, per calcolare la lunghezza o l'area delle caratteristiche geometriche.<br>
                             I risultati possono essere scritti in un nuovo campo di attributo, un campo virtuale, oppure possono essere utilizzati per aggiornare i valori in un campo esistente.</p>
                         </div>
-                    </div> 
+                    </div>  -->
 	<!-- single service -->
-                </div>
+                <!-- </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.5s">
                         <div class="service_icon">
@@ -75,9 +75,9 @@ hide:
                             <p>Questa guida nasce per rispondere alle numerose richieste di aiuto sull&rsquo;uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.<br>
                             Nella sezione <a href="esempi/lista_esempi/" title="USO DELLE FUNZIONI" target="_parent">ESERCIZI</a> si trovano esempi pratici e svolti step by step per rendere facile la comprensione di alcune funzioni di base come Area, lunghezza, Buffer ecc...</p>
                         </div>
-                    </div>
+                    </div> -->
 	<!-- single service -->
-                </div>
+                <!-- </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.8s">
                         <div class="service_icon">
@@ -89,9 +89,9 @@ hide:
                               Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due giorni da otto ore)<br>
                             <a href="corso_formazione/corso_di_formazione/" title="Corso di formazione | Programma" target="_parent">Programma...</a> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</p>
                         </div>
-                    </div> 
+                    </div>  -->
 	<!-- single service -->
-                </div>
+                <!-- </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single_service mt-30 wow fadeInUpBig" data-wow-duration="1.3s" data-wow-delay="0.2s">
                         <div class="service_icon">
@@ -102,7 +102,7 @@ hide:
                           <p>Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta la mia conoscenza sullo strumento.<br>	  
 						  Puoi contribuire a&nbsp;<strong>HfcQGIS</strong> con una <a href="contributing/#donazione" target="_parent">donazione</a>, divulgando questo manuale, segnalando bug, suggerendo miglioramenti, suggerendo esempi/esercizi, Pull Requests o documentare una funzione con donazione.<br>&nbsp;&nbsp;</p>
                       </div>
-                    </div> 
+                    </div>  -->
        <!-- single service -->
                 </div>
 

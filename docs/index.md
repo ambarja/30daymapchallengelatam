@@ -52,7 +52,7 @@ hide:
         <div class="col-sm-4">
           <div class="team-member">
             <img class="circular_image" src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg" alt="osm">
-            <h5>OpenStreetMap-Perú</h5>
+            <h5 align="center">OpenStreetMap-Perú</h5>
 				<div>
                 <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">
                  <span class="fa-stack fa-lg">

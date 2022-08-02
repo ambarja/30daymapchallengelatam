@@ -1,22 +1,21 @@
-.circular_image {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  overflow: hidden;
-  background-color: white;
-  /* commented for demo
-  float: left;
-  margin-left: 125px;
-  margin-top: 20px;
-  */
-  
-  /*for demo*/
-  display:inline-block;
-  vertical-align:middle;
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
 }
-.circular_image img{
-  width:100%;
+.rounded-circle {
+  border-radius: 50% !important;
 }
+
+.mr-auto,
+.mx-auto {
+  margin-right: auto !important;
+}
+
 
 ul.social-buttons {
   margin-bottom: 0;

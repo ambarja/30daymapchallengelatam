@@ -67,7 +67,7 @@ hide:
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="./img/helpgis.jpg" alt="">
             <h4>HelpGIS</a></h4>
-        <p class="text-muted"><a href="../autore/" title="helpgis" target="_self"></a></p> 
+        <p class="text-muted"><a href="../autore/" title="helpgis" target="_self">GIS pata todos </a></p> 
 			<div>
                 <a href="#" title="helpgis" target="_blank">
                  <span class="fa-stack fa-lg">

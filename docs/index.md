@@ -65,11 +65,11 @@ hide:
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="../img/faccioni/salvatoreFiandaca_02.png" alt="">
-            <h4>Auspiciador 2</a></h4>
-        <p class="text-muted"><a href="../autore/" title="Salvatore Fiandaca | Autore e curatore di HfcQGIS" target="_self">Descripción...</a></p> 
+            <img class="mx-auto rounded-circle" src="../img/hepgis.svg" alt="">
+            <h4>HelpGIS</a></h4>
+        <p class="text-muted"><a href="../autore/" title="helpgis" target="_self"></a></p> 
 			<div>
-                <a href="https://twitter.com/totofiandaca" title="Salvatore Fiandaca" target="_blank">
+                <a href="#" title="helpgis" target="_blank">
                  <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -79,10 +79,10 @@ hide:
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="../img/faccioni/gianniVitrano.png" alt="">
-            <h4>Auspiciador 3</h4>
-            <p class="text-muted"><a href="../webmaster/gbvitrano/" title="Giovan Battista Vitrano | Webmaster" target="_self">Descripción...</a></p> 
-			 <div><a href="https://twitter.com/gbvitrano" title="Giovan Battista Vitrano" target="_blank">
+            <img class="mx-auto rounded-circle" src="../img/geografos_sjl.jpg" alt="">
+            <h4>Geógrafos SJL</h4>
+            <p class="text-muted"><a href="../webmaster/gbvitrano/" title="geografos_sjl" target="_self">Geógrafos desde San Juan de Lurigancho</a></p> 
+			 <div><a href="" title="geografos_sjl" target="_blank">
                  <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>

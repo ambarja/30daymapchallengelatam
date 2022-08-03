@@ -65,7 +65,7 @@ hide:
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="../img/hepgis.svg" alt="">
+            <img class="mx-auto rounded-circle" src="./img/helpgis.svg" alt="">
             <h4>HelpGIS</a></h4>
         <p class="text-muted"><a href="../autore/" title="helpgis" target="_self"></a></p> 
 			<div>
@@ -79,7 +79,7 @@ hide:
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="../img/geografos_sjl.jpg" alt="">
+            <img class="mx-auto rounded-circle" src="./img/geografos_sjl.jpg" alt="">
             <h4>Geógrafos SJL</h4>
             <p class="text-muted"><a href="../webmaster/gbvitrano/" title="geografos_sjl" target="_self">Geógrafos desde San Juan de Lurigancho</a></p> 
 			 <div><a href="" title="geografos_sjl" target="_blank">

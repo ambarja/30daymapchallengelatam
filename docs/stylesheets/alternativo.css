@@ -59,12 +59,4 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   text-align: center;
 }
 
-.text-center {
-  text-align: center !important;
-    font-size: 1rem!important;
-  font-weight: 400!important;
-  font-style: italic!important;
-  margin-bottom: 50px!important;
-  text-transform: none!important;
-}
 

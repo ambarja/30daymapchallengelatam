@@ -65,7 +65,7 @@ hide:
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="./img/helpgis.svg" alt="">
+            <img class="mx-auto rounded-circle" src="./img/helpgis.jpg" alt="">
             <h4>HelpGIS</a></h4>
         <p class="text-muted"><a href="../autore/" title="helpgis" target="_self"></a></p> 
 			<div>

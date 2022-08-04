@@ -55,13 +55,13 @@ hide:
         <div class="col-sm-4">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg" alt="osm">
-				    <div>
-              <h4>OSM-Perú</h4>
-              <p class="text-muted">
+            <h4 class="text-muted">OSM-Perú</h4>
+            <p class="text-muted">
                <a href="../autore/" title="Open Street Map" target="_self">
                Open Street Map - Peru
                </a>
-               </p> 
+            </p> 
+				    <div>
                 <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -74,7 +74,7 @@ hide:
         <div class="col-sm-4">
           <div class="team-member">
                 <img class="mx-auto rounded-circle" src="./img/helpgis.jpg" alt="">
-                    <h4>HelpGIS</a></h4>
+                    <h4 class="text-muted">HelpGIS</a></h4>
                       <p class="text-muted"><a href="../autore/" title="helpgis" target="_self">GIS pata todos </a></p> 
 			<div>
                 <a href="#" title="helpgis" target="_blank">
@@ -88,7 +88,7 @@ hide:
         <div class="col-sm-4">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="./img/geografos_sjl.jpg" alt="">
-                <h4>Geógrafos SJL</h4>
+                <h4 class="text-muted">Geógrafos SJL</h4>
                     <p class="text-muted"><a href="../webmaster/gbvitrano/" title="geografos_sjl" target="_self">Geógrafos desde San Juan de Lurigancho</a></p> 
 			 <div><a href="" title="geografos_sjl" target="_blank">
                  <span class="fa-stack fa-lg">

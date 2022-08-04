@@ -17,7 +17,7 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/house
-      link: https://hfcqgis.opendatasicilia.it/
+      link: https://ambarja.github.io/30DayMapChallengeLatam/
       name: Home Page
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/antony_barja
@@ -119,21 +119,14 @@ extra_css:
 
 ## Page tree
 nav:
-    - Home: index.md
+    - Inicio: index.md
 
     - About:
         - OpenDataSicilia: ods.md
-        - Autore HfcQGIS: autore.md
-        - Webmaster: webmaster/gbvitrano.md
-        - Traduzione: traduzione.md
-        - Release: release.md
-        - Changelog: changelog.md
-        - Pull Request: pull-request.md
         - gis-stackexchange: gis-stackexchange.md
         - Sitografia: sitografia_field_calc.md
         - Risorse: risorse.md
-        - Disclaimer: disclaimer.md
         - Licenza: LICENSE_my.md
-      #  - Informativa privacy estesa: privacy.md
+        - Soporte: suppoter.md
     # - Webmaster: webmaster/gbvitrano.md
   # - Tags: tags.md

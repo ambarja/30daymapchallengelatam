@@ -38,7 +38,7 @@
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
-  margin-left: -15px;
+  margin-left: 70px;
 }
 
 .rounded-circle {
@@ -68,8 +68,8 @@ ul.social-buttons li a {
 }
 
 .team-member {
-  margin-bottom: 50px;
-  text-align: center;
+  margin-bottom: -20px;
+  text-align: -webkit-center;
 }
 
 .team-member img {

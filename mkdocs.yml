@@ -17,7 +17,7 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/house
-      link: https://ambarja.github.io/30DayMapChallengeLatam/
+      link: ./
       name: Home Page
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/antony_barja

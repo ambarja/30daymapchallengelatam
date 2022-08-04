@@ -55,9 +55,9 @@ hide:
         <div class="col-sm-4">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg" alt="osm">
-            <h4 class="text-muted">OSM-Perú</h4>
+            <h5 class="text-muted">OSM-Perú</h5>
             <p class="text-muted">
-               <a href="../autore/" title="Open Street Map" target="_self">
+               <a href="#" title="Open Street Map" target="_self">
                Open Street Map - Peru
                </a>
             </p> 
@@ -74,8 +74,8 @@ hide:
         <div class="col-sm-4">
           <div class="team-member">
                 <img class="mx-auto rounded-circle" src="./img/helpgis.jpg" alt="">
-                    <h4 class="text-muted">HelpGIS</a></h4>
-                      <p class="text-muted"><a href="../autore/" title="helpgis" target="_self">GIS pata todos </a></p> 
+                    <h5 class="text-muted">HelpGIS</a></h5>
+                      <p class="text-muted"><a href="#" title="helpgis" target="_self">GIS pata todos </a></p> 
 			<div>
                 <a href="#" title="helpgis" target="_blank">
                  <span class="fa-stack fa-lg">
@@ -88,8 +88,8 @@ hide:
         <div class="col-sm-4">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="./img/geografos_sjl.jpg" alt="">
-                <h4 class="text-muted">Geógrafos SJL</h4>
-                    <p class="text-muted"><a href="../webmaster/gbvitrano/" title="geografos_sjl" target="_self">Geógrafos desde San Juan de Lurigancho</a></p> 
+                <h5 class="text-muted">Geógrafos SJL</h5>
+                    <p class="text-muted"><a href="#" title="geografos_sjl" target="_self">Geógrafos desde San Juan de Lurigancho</a></p> 
 			 <div><a href="" title="geografos_sjl" target="_blank">
                  <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>

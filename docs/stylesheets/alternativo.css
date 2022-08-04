@@ -51,6 +51,11 @@ ul.social-buttons li a {
   background-color: #212529;
 }
 
+.team-member {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
 .team-member img {
   width: 195px;
   height: 195px;
@@ -70,11 +75,6 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #105099;
-}
-
-.team-member {
-  margin-bottom: 50px;
-  text-align: center;
 }
 
 .mr-auto,.mx-auto {

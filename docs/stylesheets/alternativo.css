@@ -16,6 +16,12 @@
   max-width: 33.333333%;
 }
 
+.col-sm-4 {
+  -ms-flex: 0 0 33.333333%;
+  flex: 0 0 33.333333%;
+  max-width: 33.333333%;
+}
+
 .row {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -25,6 +31,7 @@
   margin-right: -15px;
   margin-left: -15px;
 }
+
 .rounded-circle {
   border-radius: 50% !important;
 }

@@ -49,6 +49,7 @@ hide:
           <h3 class="section-subheading text-muted">Un cordial agradecimiento a las siguientes organizaciones  e instituciones.</h3>
         </div>
       </div>
+      <br>
       <div class="row">
         <div class="col-sm-4">
           <div class="team-member">

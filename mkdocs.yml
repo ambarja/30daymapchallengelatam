@@ -121,7 +121,7 @@ extra_css:
 nav:
     - Inicio: index.md
 
-    - About:
+    - Acerca de:
         - OpenDataSicilia: ods.md
         - gis-stackexchange: gis-stackexchange.md
         - Sitografia: sitografia_field_calc.md

@@ -6,7 +6,7 @@
    version="1.1"
    id="svg987"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="qgispe_flyer.svg"
+   sodipodi:docname="flyer.svg"
    inkscape:export-filename="/home/barja/Descargas/qgis_pe/30DayMapChallengeQGISPERU/_flyer/qgispe_flyer.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -40,8 +40,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.67081229"
-     inkscape:cx="723.00405"
-     inkscape:cy="248.20654"
+     inkscape:cx="882.51216"
+     inkscape:cy="286.96552"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="0"
@@ -250,7 +250,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="mix-blend-mode:darken;fill:#c3c3c3;fill-opacity:0.4;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="mix-blend-mode:normal;fill:#c3c3c3;fill-opacity:0.72999984;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect114-2"
        width="298.0423"
        height="145.30469"

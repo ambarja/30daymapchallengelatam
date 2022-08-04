@@ -11,9 +11,9 @@
 
 .col-sm-4 {
   position: relative;
-  width: 100%;
+  width: fit-content;
   padding-right: 0px;
-  padding-left: 0px;
+  padding-left: 60px;
 }
 
 .col-4 {

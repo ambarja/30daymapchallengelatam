@@ -103,7 +103,7 @@ hide:
 <div class="container">
   <div class="row align-items-center justify-content-center justify-content-lg-between">
    <div class="col-lg-12">
-      <div class="header_hero_content mt-45"> 
+      <div class="header_hero_content mt-0"> 
       <br><hr><br>
     <h4 class="service_title"> ⚠️ ! IMPORTANTE !</h4>
       <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">

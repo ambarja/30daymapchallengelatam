@@ -27,7 +27,7 @@ hide:
               <div class="container">
                 <div class="text-center">
                 <h3 class="main_title">30DMCLATAM: Desafío de los mapas en 30 días en Latinoamérica</h3><br>
-  <h5 class="sub_title">🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año📅 empleando software libre de código abierto con datos abiertos 🌎🐧</h5> <br>
+  <h5 class="sub_title">🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año 📅 basados en las reglas propuestas del reto, la idea es crea y publicar con el hashtag #30daymapchallengelatam en Twitter o Facebook. No tienes que registrarte en ningún lado para participar. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento en Latinoamérica.</h5> <br>
   <hr>
   <h3 class="main_title">  <a href="https://hfcqgis.opendatasicilia.it/esempi/lista_esempi/" title="Patrocinio y Auspiciadores" target="_parent">Patrocinio y Auspiciadores</a></h3>
 

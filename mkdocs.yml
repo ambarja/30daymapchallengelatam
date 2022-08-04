@@ -120,11 +120,13 @@ extra_css:
 ## Page tree
 nav:
     - Inicio: index.md
-
+    - Consideraciones: consideracion.md
+    - Recursos: recursos.md
+    - 2022 Challenge: maps2022.md
+    - Estadistica: estadistica2022.md
     - Acerca de:
         - OpenDataSicilia: ods.md
         - Sitografia: sitografia_field_calc.md
-        - Risorse: risorse.md
         - Licenza: LICENSE_my.md
         - Soporte: supporter.md
     # - Webmaster: webmaster/gbvitrano.md

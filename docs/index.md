@@ -85,9 +85,10 @@ hide:
 				</div>
           </div>
         </div>
-        <div class="team-member">
+        <div class="col-sm-4">
+          <div class="team-member">
             <img class="mx-auto rounded-circle" src="./img/geografos_sjl.jpg" alt="">
-                <h5 class="text-muted">Geógrafos SJL</h5>
+                <h5 class="text-muted">Geógrafos SJL</h>
                     <p class="text-muted"><a href="#" title="geografos_sjl" target="_self">Geógrafos desde San Juan de Lurigancho</a></p> 
 			 <div><a href="" title="geografos_sjl" target="_blank">
                  <span class="fa-stack fa-lg">

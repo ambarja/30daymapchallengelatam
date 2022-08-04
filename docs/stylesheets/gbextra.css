@@ -102,7 +102,7 @@
     font-size: .75rem !important;
 	 color: #589632;
 	/*    color: var(--md-accent-fg-color);*/
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	/*text-decoration: underline;*/
 }
 .md-nav__link--hover {text-transform: uppercase;}

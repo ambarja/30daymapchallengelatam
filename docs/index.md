@@ -55,13 +55,13 @@ hide:
         <div class="col-sm-4">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg" alt="osm">
-            <h4>OSM-Perú</h4>
-            <p class="text-muted">
+				    <div>
+              <h4>OSM-Perú</h4>
+              <p class="text-muted">
                <a href="../autore/" title="Open Street Map" target="_self">
                Open Street Map - Peru
                </a>
-            </p> 
-				    <div>
+               </p> 
                 <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>

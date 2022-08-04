@@ -77,4 +77,6 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   text-align: center;
 }
 
-
+.mr-auto,.mx-auto {
+  margin-right: auto !important;
+}

@@ -13,8 +13,16 @@
   position: relative;
   width: fit-content;
   padding-right: 0px;
-  padding-left: 120px;
+  padding-left: 90px;
 }
+
+.col-sm-5 {
+  position: relative;
+  width: fit-content;
+  padding-right: 0px;
+  padding-left: 50px;
+}
+
 
 .col-4 {
   -ms-flex: 0 0 33.333333%;

@@ -85,7 +85,7 @@ hide:
 				</div>
           </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-5">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="./img/geografos_sjl.jpg" alt="">
                 <h5 class="text-muted">Geógrafos SJL</h5>

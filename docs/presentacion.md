@@ -4,13 +4,13 @@ tags:
   - 30daymapchallengelatam
 ---
 
-## **#30daymapchallengelatam** 🌎
+## **1. 30daymapchallengelatam** 🌎
 
-<img src="../flyer/flyer.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/2c68e67a0813f40e9c0117d62d2b62471b70c84d/flyer/flyer.svg" width="100%"/>
 
 🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de setiembre del presente año 📅 basados en las reglas propuestas del reto, la idea es crea y publicar con el hashtag #30daymapchallengelatam en Twitter o Facebook. No tienes que registrarte en ningún lado para participar. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 
-## **Datos + Recursos** 📋
+## **2. Datos + Recursos** 📋
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇.
 
 * [__OpenStreetMap (OSM)__:](https://www.openstreetmap.org/#map=6/-9.301/-75.002)
@@ -32,7 +32,7 @@ Es un tablero de control que muestra los datos actualizados oficiales de los cas
 
 * [__Patches:__ ](https://github.com/qgispe/QGIS-Patches-Peru) Patches perzonalizados para Perú y otros.
 
-## __HERRAMIENTAS__ 🔧⚙
+## 3. __Herramientas__ 🔧⚙
 
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán herramientas de **código abierto (de uso libre)**. Eso no significa que el desafío se pueda realizar con cualquier tipo de software (o incluso sin ningún software). Las habilidades de programación no son de ninguna manera un requisito para hacer los mapas. 💡🧮👇
 
@@ -60,13 +60,13 @@ Es un sistema de gestión de base de datos (DBMS) que es simple, robusto, fácil
 * [__Blender:__ ](https://www.blender.org/)
 Es un programa informático multiplataforma, de código de uso libre, que permite el modelado 3D, animaciones, efectos visuales, entre otros. Con su librería Blender GIS, nos permite realizar diversos modelamientos espaciales.
 
-## __TUTORIALES__ 🎥 👩‍💻 👨‍💻
+## 4. __Tutoriales__ 🎥 👩‍💻 👨‍💻
 
 Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos| Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial
 --------|---------|---------
  [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos") | <a href="https://www.youtube.com/watch?v=kPsdYd85kGI"><img src="https://raw.githubusercontent.com/qgispe/CoffeewithPlugins/master/presentaciones/cof_plug_6/resources/qgispe_ccp_6_.png" width=650px title="Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial" ></a>
 
-## __CÓDIGO DE CONDUCTA__ 📜⚖
+## 5. __Código de conduta__ 📜⚖
 No importa si eres un experto en GIS o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:
 
 - Todos los mapas que publiques deben ser su trabajo original. No robes contenido de otros.

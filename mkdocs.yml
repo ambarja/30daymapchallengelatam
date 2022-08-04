@@ -121,12 +121,11 @@ extra_css:
 nav:
     - Inicio: index.md
     - Consideraciones: consideracion.md
-    - Recursos: recursos.md
     - 2022 Challenge: maps2022.md
-    - Estadistica: estadistica2022.md
+    - Estadística: estadistica2022.md
     - Acerca de:
-        - OpenDataSicilia: ods.md
-        - Sitografia: sitografia_field_calc.md
+        - 30daymapchallengelatam: ods.md
+        - Acerca de mi: sitografia_field_calc.md
         - Licenza: LICENSE_my.md
         - Soporte: supporter.md
     # - Webmaster: webmaster/gbvitrano.md

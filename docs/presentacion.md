@@ -9,7 +9,7 @@ tags:
  <img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/454b864ffc200324ac82531f27adc54ee92c60a6/images/logo/30DMC_Tag_.svg" width="40%"/>
 </div> 
 
-`#30DayMapChallenge` es un desafío diario, iniciado por [Topi Tjukanov](https://tjukanov.org/aboutme) con el propósito de mapear/georreferenciar/cartografiar/visualizar/ datos que puedan ser relevantes para la comunidad espacial y para todos en general. Este challenge tiene como punto de partida el mes de noviembre del año 2019.
+`#30DayMapChallenge` es un desafío diario, iniciado por [**Topi Tjukanov**](https://tjukanov.org/aboutme) con el propósito de mapear/georreferenciar/cartografiar/visualizar/ datos que puedan ser relevantes para la comunidad espacial y para todos en general. Este challenge tiene como punto de partida el mes de noviembre del año 2019.
 
 [Topi Tjukanov](https://tjukanov.org/aboutme) lo llama *"Un experimento de mapeo social"*, y la idea principal de este challenge más que realizar un mapa en un día es divertirse del proceso usando tu creatividad, tus datos y tus propias herramientas con la cual estás más familiarizado.
 
@@ -32,7 +32,7 @@ En la siguiente tabla se muestra los resultados de `30daymapchallenge` para el a
  </tr>
 </table>
 
-Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [Antony Barja]() con el objetivo de facilitar la difusión y realización de este experimento de mapeo social en Latinoámerica, teniendo como fin incrementar la participación de usuarios de América Latina para los proximos eventos de `30daymapchallenge`. 
+Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [**Antony Barja**]() con el objetivo de facilitar la difusión y realización de este experimento de mapeo social en Latinoámerica, teniendo como fin incrementar la participación de usuarios de América Latina para los proximos eventos de `30daymapchallenge`. 
 
 <mark><h3 align="center"><strong><code>30daymapchallengelatam</code> NO SUSTITUYE A <code>30daymapchallenge</code></strong></h3></mark>
 

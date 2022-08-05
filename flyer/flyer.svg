@@ -40,8 +40,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.67081229"
-     inkscape:cx="126.71205"
-     inkscape:cy="292.92844"
+     inkscape:cx="186.34125"
+     inkscape:cy="237.77143"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="0"
@@ -273,36 +273,36 @@
            height="145.30469"
            x="0.087574013"
            y="18.931004"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <rect
-           style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#e6e6e6;fill-opacity:0.43000001;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect114-3"
            width="391.09656"
            height="145.30469"
            x="403.19424"
            y="18.564625"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"
            clip-path="url(#clipPath4336)"
            transform="matrix(1.00362,0,0,1,-405.98198,0.36637878)" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:18.7702px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.469256"
-           x="54.738388"
-           y="34.669777"
+           style="font-style:normal;font-weight:normal;font-size:19.5401px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.488503"
+           x="47.421974"
+           y="36.091782"
            id="text941"
-           transform="scale(0.96606756,1.0351243)"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           transform="scale(1.0056915,0.99434071)"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
              id="tspan939"
-             x="54.738388"
-             y="34.669777"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.8145px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Ultra-Bold';stroke-width:0.469256">#30DayMapChallengeLATAM</tspan></text>
+             x="47.421974"
+             y="36.091782"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20.6272px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Ultra-Bold';stroke-width:0.488503">#30DayMapChallengeLATAM</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:12.1717px;line-height:1.25;font-family:sans-serif;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.304291"
@@ -310,7 +310,7 @@
            y="51.767838"
            id="text941-6"
            transform="scale(1.0277937,0.9729579)"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -324,7 +324,7 @@
            x="8.1381998"
            y="64.4226"
            id="text25"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -338,7 +338,7 @@
            x="7.7293386"
            y="74.277405"
            id="text25-3"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -352,7 +352,7 @@
            x="7.8981881"
            y="84.884087"
            id="text25-7"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -366,7 +366,7 @@
            x="6.8834805"
            y="94.91629"
            id="text25-7-3"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -380,7 +380,7 @@
            x="7.0692534"
            y="104.85229"
            id="text25-7-3-6"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -394,7 +394,7 @@
            x="6.9576778"
            y="115.10792"
            id="text25-7-3-6-9"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -408,7 +408,7 @@
            x="6.9576778"
            y="126.22042"
            id="text25-7-3-6-9-2"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -422,7 +422,7 @@
            x="6.9576778"
            y="136.80376"
            id="text25-7-3-6-9-2-0"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -436,7 +436,7 @@
            x="6.4285111"
            y="147.91624"
            id="text25-7-3-6-9-2-0-3"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -450,7 +450,7 @@
            x="2.5922067"
            y="159.32085"
            id="text25-7-3-6-9-2-0-3-0"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -464,7 +464,7 @@
            x="131.99796"
            y="64.350227"
            id="text25-2"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -478,7 +478,7 @@
            x="131.58905"
            y="74.205032"
            id="text25-3-8"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -492,7 +492,7 @@
            x="131.75795"
            y="84.811722"
            id="text25-7-9"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -506,7 +506,7 @@
            x="130.74323"
            y="94.843925"
            id="text25-7-3-0"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -520,7 +520,7 @@
            x="130.92902"
            y="104.77991"
            id="text25-7-3-6-7"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -534,7 +534,7 @@
            x="130.81741"
            y="115.03555"
            id="text25-7-3-6-9-9"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -548,7 +548,7 @@
            x="130.81741"
            y="126.14806"
            id="text25-7-3-6-9-2-2"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -562,7 +562,7 @@
            x="130.81741"
            y="136.73138"
            id="text25-7-3-6-9-2-0-9"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -576,7 +576,7 @@
            x="130.28825"
            y="147.84389"
            id="text25-7-3-6-9-2-0-3-3"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -590,7 +590,7 @@
            x="128.56868"
            y="159.24849"
            id="text25-7-3-6-9-2-0-3-0-2"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -604,7 +604,7 @@
            x="237.17316"
            y="62.916626"
            id="text25-2-3"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -618,7 +618,7 @@
            x="236.7643"
            y="73.300606"
            id="text25-3-8-9"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -632,7 +632,7 @@
            x="236.40396"
            y="83.907288"
            id="text25-7-9-7"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -646,7 +646,7 @@
            x="236.44759"
            y="94.997826"
            id="text25-7-3-0-4"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -660,7 +660,7 @@
            x="237.16254"
            y="106.52132"
            id="text25-7-3-6-7-0"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -674,7 +674,7 @@
            x="237.05096"
            y="117.30611"
            id="text25-7-3-6-9-9-6"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -688,7 +688,7 @@
            x="238.65228"
            y="127.55919"
            id="text25-7-3-6-9-2-2-0"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"
            transform="scale(0.99330766,1.0067374)"><tspan
@@ -708,7 +708,7 @@
            x="237.05103"
            y="139.53113"
            id="text25-7-3-6-9-2-0-9-3"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -722,7 +722,7 @@
            x="237.05096"
            y="150.11446"
            id="text25-7-3-6-9-2-0-3-3-0"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -736,7 +736,7 @@
            x="236.91881"
            y="160.46072"
            id="text25-7-3-6-9-2-0-3-0-2-1"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"
@@ -750,7 +750,7 @@
            x="251.7206"
            y="130.6772"
            id="text25-7-3-6-9-2-2-0-5"
-           inkscape:export-filename="/home/barja/Descargas/qgis_pe/Mapa.png"
+           inkscape:export-filename="/home/am/Documentos/30DayMapChallengeLatam/flyer/flyer.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"><tspan
              sodipodi:role="line"

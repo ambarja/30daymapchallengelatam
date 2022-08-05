@@ -6,7 +6,7 @@ tags:
 
 ## **1. 30daymapchallengelatam** 🌎
 
-<img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/2c68e67a0813f40e9c0117d62d2b62471b70c84d/flyer/flyer.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/e1f4ae41f8e7aefcbf410d95f9eb69b3e3e610c2/flyer/flyer.svg" width="100%"/>
 
 🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de septiembre del presente año 📅 basados en las reglas propuestas del reto, la idea es crea y publicar con el hashtag #30daymapchallengelatam en Twitter o Facebook. No tienes que registrarte en ningún lado para participar. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 

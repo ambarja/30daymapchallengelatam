@@ -32,7 +32,7 @@ En la siguiente tabla se muestra los resultados de `30daymapchallenge` para el a
  </tr>
 </table>
 
-Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [Antony Barja]() con el objetivo de facilitar la difusión y realización de este experimento de mapeo social en Latinoámerica, teniendo como fin incrementar la participación de usuarios de america latina para los proximos eventos de `30daymapchallenge`. 
+Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [Antony Barja]() con el objetivo de facilitar la difusión y realización de este experimento de mapeo social en Latinoámerica, teniendo como fin incrementar la participación de usuarios de América Latina para los proximos eventos de `30daymapchallenge`. 
 
 <mark><h3 align="center"><strong><code>30daymapchallengelatam</code> NO SUSTITUYE A <code>30daymapchallenge</code></strong></h3></mark>
 
@@ -57,7 +57,7 @@ Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m
 
 ## **4. Herramientas** 🔧⚙
 
-Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán herramientas de **código abierto (de uso libre)**. Eso no significa que el desafío se pueda realizar con cualquier tipo de software (o incluso sin ningún software). Las habilidades de programación no son de ninguna manera un requisito para hacer los mapas. 💡🧮👇
+Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán algunas alternativas **libres y de código abierto** que usted podría considerar. Eso no significa que el desafío es esclusivo, en realidad se pueda realizar con cualquier tipo de software o incluso sin ningún software 💡🧮👇.
 
 * [__QGIS:__ ](https://qgis.org/es/site/)
 Es una aplicación profesional de SIG que está construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
@@ -85,7 +85,7 @@ Es un programa informático multiplataforma, de código de uso libre, que permit
 
 ## **5. Tutoriales** 🎥 👩‍💻 👨‍💻
 
-Un taller introductorio de QGIS para principiantes
+Un taller introductorio de QGIS para principiantes.
 
 <div class="video-wrapper">
   <iframe width="1280" height="720" src="https://www.youtube.com/embed/-7v5qfJYWxA" frameborder="0" allowfullscreen></iframe>
@@ -95,7 +95,9 @@ Un taller introductorio de QGIS para principiantes
 No importa si eres un experto en GIS o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:
 
 - Todos los mapas que publiques deben ser su trabajo original. No robes contenido de otros.
-- Da crédito a la fuente de datos original. Comparte y libérate :)
-- El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión 😊.
+
+- Da crédito a la fuente de datos original.
+ 
+- El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía.No es una competencia, es diversión 😊.
 
 

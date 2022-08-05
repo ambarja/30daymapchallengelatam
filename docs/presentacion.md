@@ -9,7 +9,7 @@ tags:
  <img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/454b864ffc200324ac82531f27adc54ee92c60a6/images/logo/30DMC_Tag_.svg" width="40%"/>
 </div> 
 
-`#30DayMapChallenge` es un desafío diario, iniciado por [**Topi Tjukanov**](https://tjukanov.org/aboutme) con el propósito de mapear/georreferenciar/cartografiar/visualizar/ datos que puedan ser relevantes para la comunidad espacial y para todos en general. Este challenge tiene como punto de partida el mes de noviembre del año 2019.
+`#30DayMapChallenge` es un desafío diario, iniciado por [**Topi Tjukanov**](https://tjukanov.org/aboutme) con el propósito de **mapear/georreferenciar/cartografiar/visualizar** datos que puedan ser relevantes para la comunidad espacial y para todos en general. Este challenge tiene como punto de partida el mes de noviembre del año 2019.
 
 [Topi Tjukanov](https://tjukanov.org/aboutme) lo llama *"Un experimento de mapeo social"*, y la idea principal de este challenge más que realizar un mapa en un día es divertirse del proceso usando tu creatividad, tus datos y tus propias herramientas con la cual estás más familiarizado.
 

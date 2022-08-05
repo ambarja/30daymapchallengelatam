@@ -1,6 +1,6 @@
-# OpenDataSicilia
+# Acerca de mi
 
-<p align="center"> <a href="http://opendatasicilia.it/" target="_blank"><img src="https://hfcqgis.opendatasicilia.it/img/opendatasicilia.png" width="150" class="immagonobox"   title="opendatasicilia.it"></a>
+<p align="center"> <a href="htts://ambarja.github.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/23284899?s=400&u=a4f50618c8abfb1f7d334db5c9cabffbb4c3f5c7&v=4" width="150" class="immagonobox"   title="ambarja"></a>
 </p>
 
 **OpenDataSicilia** è una iniziativa civica che si propone di far conoscere e diffondere le prassi dell'_open data_ e la cultura dell'_open government_ e nel territorio e aprire una discussione pubblica partecipata.<br>

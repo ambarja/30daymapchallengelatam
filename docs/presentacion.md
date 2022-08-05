@@ -34,7 +34,7 @@ En la siguiente tabla se muestra los resultados de `30daymapchallenge` para el a
 
 Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [Antony Barja]() con el objetivo de facilitar la difusión y realización de este experimento de mapeo social en Latinoámerica, teniendo como fin incrementar la participación de usuarios de america latina para los proximos eventos de `30daymapchallenge`. 
 
-<mark><h3 align="center"><strong><code>30daymapchallengelatam</code> NO sustituye a <code>30daymapchallenge</code></strong></h3></mark>
+<mark><h3 align="center"><strong><code>30daymapchallengelatam</code> NO SUSTITUYE A <code>30daymapchallenge</code></strong></h3></mark>
 
 `30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 

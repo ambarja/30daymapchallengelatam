@@ -51,7 +51,7 @@ Es un proyecto colaborativo para crear un gran mapa editable,gratuito, y a nivel
 * [__Natural Earth Data__:](https://www.naturalearthdata.com/)
 Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m, 1:50 my 1: 110 millones. Con datos vectoriales y ráster estrechamente integrados, con Natural Earth puede crear una variedad de mapas visualmente agradables y bien elaborados con cartografía o software GIS.
 
-* [__Humanitarian Data Exchange__:](https://data.humdata.org/) Es una plataforma abierta para compartir datos humanitarios administrada por la Oficina de Coordinación de Asuntos Humanitarios de las Naciones Unidas..
+* [__Humanitarian Data Exchange__:](https://data.humdata.org/) Es una plataforma abierta para compartir datos humanitarios administrada por la Oficina de Coordinación de Asuntos Humanitarios de las Naciones Unidas.
 
 * [__Free GIS Data__:](https://freegisdata.rtwilson.com/) El sitio contiene una lista categorizada de enlaces a más de 500 sitios que proporcionan conjuntos de datos geográficos disponibles gratuitamente, todos listos para cargar en un Sistema de Información Geográfica.
 
@@ -60,10 +60,10 @@ Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán algunas alternativas **libres y de código abierto** que usted podría considerar. Eso no significa que el desafío es esclusivo, en realidad se pueda realizar con cualquier tipo de software o incluso sin ningún software 💡🧮👇.
 
 * [__QGIS:__ ](https://qgis.org/es/site/)
-Es una aplicación profesional de SIG que está construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
+Es un software GIS Libre y de Código Abierto que permite crear, editar, visualizar, analizar y publicar información geoespacial.
 
 * [__gvSIG:__ ](http://www.gvsig.com/es)
-Es un proyecto de desarrollo de software para Sistemas de Información Geográfica basado en software libre, utilizando Jython como una implementación de Python realizada en Java.
+Es una herramienta orientada al manejo de información geográfica, capaz de acceder a los formatos más usuales tanto ráster como vectoriales. Integra en una vista datos tanto locales como remotos a través de un origen WMS, WCS o WFS.
 
 * [__R:__ ](https://www.r-project.org)
 Es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.

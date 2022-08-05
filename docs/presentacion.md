@@ -16,7 +16,7 @@ tags:
 Para mayor información puedes ver el siguiente video 👇 : 
 
 <div class="video-wrapper">
-  <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=-7v5qfJYWxA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/-7v5qfJYWxA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 En la siguiente tabla se muestra los resultados de `30daymapchallenge` para el año 2021.

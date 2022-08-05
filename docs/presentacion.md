@@ -42,27 +42,18 @@ Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [Antony Barja](
 
 <img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/e1f4ae41f8e7aefcbf410d95f9eb69b3e3e610c2/flyer/flyer.svg" width="100%"/>
 
-## **3. Datos + Recursos** 📋
+## **3. Datos** 📋
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇.
 
 * [__OpenStreetMap (OSM)__:](https://www.openstreetmap.org/#map=6/-9.301/-75.002)
 Es un proyecto colaborativo para crear un gran mapa editable,gratuito, y a nivel mundial. Hay múltiples formas de aprovechar la información de OSM, tales como osmdata.xyz for gpk, Overpass API for GeoJSONs, etc.
 
-* [__Natural Earth Data___](https://www.naturalearthdata.com/)
+* [__Natural Earth Data__:](https://www.naturalearthdata.com/)
 Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m, 1:50 my 1: 110 millones. Con datos vectoriales y ráster estrechamente integrados, con Natural Earth puede crear una variedad de mapas visualmente agradables y bien elaborados con cartografía o software GIS.
 
-* [__GEOPERU__:](https://www.geoperu.gob.pe/)
-Es una plataforma que permite identificar brechas sociales, económicas, de infraestructura, darle seguimiento y ejecución de proyectos, así como el soporte para la planificación y proyección territorial. Desarrollada por el Estado Peruano, utilizando 100% código de uso libre.
+* [__Humanitarian Data Exchange__:](https://data.humdata.org/) Es una plataforma abierta para compartir datos humanitarios administrada por la Oficina de Coordinación de Asuntos Humanitarios de las Naciones Unidas..
 
-* [__ESCALE__:](http://escale.minedu.gob.pe/)
-Es un portal web que permite el acceso a datos estadísticos del sector Educación, mediante módulos de consultas, visores de contenidos, mapas y descargas.
-
-* [__Sala Situacional COVID-19 PERÚ__:](https://covid19.minsa.gob.pe/sala_situacional.asp)
-Es un tablero de control que muestra los datos actualizados oficiales de los casos positivos, fallecidos, letalidad, pruebas aplicadas, personas hospitalizadas, entre otros, respecto al COVID-19 en el Perú.
-
-* [__Symbology-Hub:__ ](https://github.com/qgispe/Symbology-Hub) Simbología variada para la elaboración de mapas temáticos.
-
-* [__Patches:__ ](https://github.com/qgispe/QGIS-Patches-Peru) Patches perzonalizados para Perú y otros.
+* [__Free GIS Data__:](https://freegisdata.rtwilson.com/) El sitio contiene una lista categorizada de enlaces a más de 500 sitios que proporcionan conjuntos de datos geográficos disponibles gratuitamente, todos listos para cargar en un Sistema de Información Geográfica.
 
 ## **4. Herramientas** 🔧⚙
 
@@ -94,10 +85,11 @@ Es un programa informático multiplataforma, de código de uso libre, que permit
 
 ## **5. Tutoriales** 🎥 👩‍💻 👨‍💻
 
-Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos| Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial
---------|---------|---------
- [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos") | [![add_col_area_perimetro](https://img.youtube.com/vi/ikw3o3umeBM/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "30 Day Map Challenge Open Session with Amy and others")
+Un taller introductorio de QGIS para principiantes
 
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/-7v5qfJYWxA" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## **6. Código de conduta** 📜⚖
 No importa si eres un experto en GIS o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:

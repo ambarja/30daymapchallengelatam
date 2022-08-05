@@ -8,7 +8,6 @@ tags:
 <div align="center">
  <img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/454b864ffc200324ac82531f27adc54ee92c60a6/images/logo/30DMC_Tag_.svg" width="40%"/>
 </div> 
-<br>
 
 `#30DayMapChallenge` es un desafío diario, iniciado por [Topi Tjukanov](https://tjukanov.org/aboutme) con el propósito de mapear/georreferenciar/cartografiar/visualizar/ datos que puedan ser relevantes para la comunidad espacial y para todos en general. Este challenge tiene como punto de partida el mes de noviembre del año 2019.
 
@@ -16,7 +15,13 @@ tags:
 
 Para mayor información puedes ver el siguiente video 👇 : 
 
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/vZNyjuNLhIk" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 [![#30DayMapChallenge](https://img.youtube.com/vi/YbUgP3eVJEU/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "#30DayMapChallenge") 
+
 
 En la siguiente tabla se muestra los resultados de `30daymapchallenge` para el año 2021.
 
@@ -35,9 +40,7 @@ Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [Antony Barja](
 
 <mark><h3 align="center"><strong><code>30daymapchallengelatam</code> NO sustituye a <code>30daymapchallenge</code></strong></h3></mark>
 
-`30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. 
-
-Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
+`30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 
 ## **Flyer oficial de #30daymapchallengelatam** 
 

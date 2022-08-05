@@ -1,11 +1,14 @@
 La licencia oficial del proyecto es: 
+
 - Licencia Pública General `GNU v3.0`
   
-La licencia de este sitio web es `CC-BY-SA-4.0`, excepto:
- 
-- Las imágenes, algunos son tomados del repositorio oficial de [30daymapchallege](), [30daymapchallege-Bot]().
+La licencia de este sitio web es:
 
-- Los videos mostrados en el sitio web son videos oficiales de **youtube**. 
+- Licencia `CC-BY-SA-4.0`
+
+excepto algunas imágenes usadas en la presentación de `30daymapchallengelatam`, estás tienen como fuente oficial al repositorio oficial de [30daymapchallege](), [30daymapchallege-Bot]().
+
+- Los videos mostrados en la sección de presentación,son videos oficiales tomados de **youtube**. 
 
 <table>
  <tr>

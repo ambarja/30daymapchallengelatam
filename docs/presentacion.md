@@ -4,11 +4,44 @@ tags:
   - 30daymapchallengelatam
 ---
 
-## **1. 30daymapchallengelatam** 🌎
+## **1. ¿Qué es `#30daymapchallenge` y por qué `#30daymapchallengelatam`?**
+<div align="center">
+ <img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/454b864ffc200324ac82531f27adc54ee92c60a6/images/logo/30DMC_Tag_.svg" width="40%"/>
+</div> 
+<br>
+
+`#30DayMapChallenge` es un desafío diario, iniciado por [Topi Tjukanov](https://tjukanov.org/aboutme) con el propósito de mapear/georreferenciar/cartografiar/visualizar/ datos que puedan ser relevantes para la comunidad espacial y para todos en general. Este challenge tiene como punto de partida el mes de noviembre del año 2019.
+
+[Topi Tjukanov](https://tjukanov.org/aboutme) lo llama *"Un experimento de mapeo social"*, y la idea principal de este challenge más que realizar un mapa en un día es divertirse del proceso usando tu creatividad, tus datos y tus propias herramientas con la cual estás más familiarizado.
+
+Para mayor información puedes ver el siguiente video 👇 : 
+
+[![#30DayMapChallenge](https://img.youtube.com/vi/YbUgP3eVJEU/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "#30DayMapChallenge") 
+
+En la siguiente tabla se muestra los resultados de `30daymapchallenge` para el año 2021.
+
+<table>
+ <tr>
+    <th>Estadísticas de tweets diarios</th>
+    <th>Ubicación de los usuarios</th>
+ </tr>
+ <tr>
+    <th><img src="https://raw.githubusercontent.com/hn303/30DayMapChallenge-Bot/master/static/maps_count.png" width="500px"/></th>
+    <th><img src="https://raw.githubusercontent.com/hn303/30DayMapChallenge-Bot/master/user_loc.png" width="465px"/></th>
+ </tr>
+</table>
+
+Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [Antony Barja]() con el objetivo de facilitar la difusión y realización de este experimento de mapeo social en Latinoámerica, teniendo como fin incrementar la participación de usuarios de america latina para los proximos eventos de `30daymapchallenge`. 
+
+<mark><h3 align="center"><strong><code>30daymapchallengelatam</code> NO sustituye a <code>30daymapchallenge</code></strong></h3></mark>
+
+`30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. 
+
+Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
+
+## **Flyer oficial de #30daymapchallengelatam** 
 
 <img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/e1f4ae41f8e7aefcbf410d95f9eb69b3e3e610c2/flyer/flyer.svg" width="100%"/>
-
-🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de septiembre del presente año 📅 basados en las reglas propuestas del reto, la idea es crea y publicar con el hashtag #30daymapchallengelatam en Twitter o Facebook. No tienes que registrarte en ningún lado para participar. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 
 ## **2. Datos + Recursos** 📋
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇.
@@ -64,7 +97,8 @@ Es un programa informático multiplataforma, de código de uso libre, que permit
 
 Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos| Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial
 --------|---------|---------
- [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos") | <a href="https://www.youtube.com/watch?v=kPsdYd85kGI"><img src="https://raw.githubusercontent.com/qgispe/CoffeewithPlugins/master/presentaciones/cof_plug_6/resources/qgispe_ccp_6_.png" width=650px title="Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial" ></a>
+ [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos") | [![add_col_area_perimetro](https://img.youtube.com/vi/ikw3o3umeBM/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "30 Day Map Challenge Open Session with Amy and others")
+
 
 ## 5. __Código de conduta__ 📜⚖
 No importa si eres un experto en GIS o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:

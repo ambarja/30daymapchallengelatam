@@ -12,9 +12,9 @@ Esta página recoge los nombres de las personas u organizaciones que han contrib
 
 <a href="https://www.paypal.me/pigrecoinfinito" target="_blank"><img width="70" src="https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/PayPal.png" class="immagonobox" Title="Dona con PayPal" alt="Dona con PayPal" /></a>
 
-nro| contribución| país| mensaje | versión
---:|-----------|------|:----------|---------:
-1 | Luz Anampa |Perú |Para tu café y por una excelente iniciativa 👩‍💻. Saludos; | v.1.0.0
+nro| contribución| país| ciudad| mensaje | versión
+--:|-----------|------|-------|:----------|---------:
+1 | Luz Anampa |Perú |Lima|Para tu café y por una excelente iniciativa 👩‍💻. Saludos!!!. | v.1.0.0
 
 
 ## **Contribución en conocimientos**

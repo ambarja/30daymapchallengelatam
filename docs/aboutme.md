@@ -23,7 +23,7 @@ Actualmente es consultor en data managment en la **Cruz Roja Alemana**, miembro 
 
 <table align="center">
  <tr>
-    <td><img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/3bd818edcbc337866187e62777a5116406e2f948/docs/img/German_Red_Cross_Logo.svg" width='145px'/></td>
+    <td><img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/3bd818edcbc337866187e62777a5116406e2f948/docs/img/German_Red_Cross_Logo.svg" width='105px'/></td>
     <td><img src="https://raw.githubusercontent.com/healthinnovation/innovar/master/man/figures/logo.png" width='100px'/></td>
     <td><img src="https://avatars.githubusercontent.com/u/68319150?s=400&u=dcf9b4889e0c4c959949bdfb23494d6ec3224a01&v=4" width='110px'></td>
  </th>

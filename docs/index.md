@@ -27,7 +27,7 @@ hide:
               <div class="container">
                 <div class="text-center">
                 <h3 class="main_title">30DMCLATAM: Desafío de los mapas en 30 días en Latinoamérica</h3><br>
-  <h5 class="sub_title">🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de septiembre del presente año 🗓️ basados en las reglas propuestas del reto. Para más información ve a la sección de <a href="">consideraciones</a></h5>
+  <h5 class="sub_title">🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de septiembre del presente año 🗓️ basados en las reglas propuestas del reto. Para más información ve a la sección de <a href="https://ambarja.github.io/30daymapchallengelatam/presentacion/">presentación</a></h5>
   <br>
   <hr>
   <h3 class="main_title">  <a href="https://hfcqgis.opendatasicilia.it/esempi/lista_esempi/" title="Patrocinio y Auspiciadores" target="_parent">Patrocinio y Auspiciadores</a></h3>

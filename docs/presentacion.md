@@ -9,9 +9,9 @@ tags:
  <img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/454b864ffc200324ac82531f27adc54ee92c60a6/images/logo/30DMC_Tag_.svg" width="40%"/>
 </div> 
 
-`#30DayMapChallenge` es un desafío diario, iniciado por [**Topi Tjukanov**](https://tjukanov.org/aboutme) con el propósito de **mapear/georreferenciar/cartografiar/visualizar** datos que puedan ser relevantes para la comunidad espacial y para todos en general. Este challenge tiene como punto de partida el mes de noviembre del año 2019.
+`#30DayMapChallenge` es un cadena de desafíos  que se realizan diariamente durante 30 días, iniciado por [**Topi Tjukanov**](https://tjukanov.org/aboutme) con el propósito de **mapear/georreferenciar/cartografiar/visualizar** datos que puedan ser de relevancia para la comunidad espacial y para todos en general. Este challenge tuvo como punto de partida el mes de noviembre del año 2019 y se viene desarrollando hasta la actualidad.
 
-[Topi Tjukanov](https://tjukanov.org/aboutme) lo llama *"Un experimento de mapeo social"*, y la idea principal de este challenge más que realizar un mapa en un día es divertirse del proceso usando tu creatividad, tus datos y tus propias herramientas con la cual estás más familiarizado.
+[Topi Tjukanov](https://tjukanov.org/aboutme) lo llama *"Un experimento de mapeo social"* y la idea principal de este challenge más que realizar un mapa en un día, es divertirse del proceso usando tu creatividad, tus datos y tus propias herramientas con las cuales te sientas más familiarizado.
 
 Para mayor información puedes ver el siguiente video 👇 : 
 
@@ -39,6 +39,7 @@ Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [**Antony Barja
 `30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 
 ## **2. Flyer oficial de 30daymapchallengelatam** 
+Apunta en tu calendario que el mes de septiembre  tienes el `30daymapchallengelatam` y tienes un desafio todos los días!
 
 <img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/e1f4ae41f8e7aefcbf410d95f9eb69b3e3e610c2/flyer/flyer.svg" width="100%"/>
 
@@ -54,6 +55,17 @@ Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m
 * [__Humanitarian Data Exchange__:](https://data.humdata.org/) Es una plataforma abierta para compartir datos humanitarios administrada por la Oficina de Coordinación de Asuntos Humanitarios de las Naciones Unidas.
 
 * [__Free GIS Data__:](https://freegisdata.rtwilson.com/) El sitio contiene una lista categorizada de enlaces a más de 500 sitios que proporcionan conjuntos de datos geográficos disponibles gratuitamente, todos listos para cargar en un Sistema de Información Geográfica.
+
+* [__Socioeconomic Data and Applications Center (SEDAC)__:](https://sedac.ciesin.columbia.edu/) El sitio proporciona una valiosa información geográfica para aplicar en los estudios de las interacciones sociales en el medio ambiente.
+
+* [__HydroSHEDS__:](https://www.hydrosheds.org/) ‍La base de datos HydroSHEDS ofrece un conjunto de capas de datos digitales globales en apoyo de la investigación y las aplicaciones hidroecológicas en todo el mundo. Sus diversos productos de datos hidrográficos incluyen límites de cuencas, redes fluviales y lagos en múltiples resoluciones y escalas.
+
+* [__OpenAerialMap__:](https://openaerialmap.org/) ‍OpenAerialMap (OAM) es una colección de datos GIS gratis con licencia abierta de imágenes satélite y de vehículos aéreos no tripulados (VANT).
+
+* [__Global Climate Monitor__:](https://www.globalclimatemonitor.org/) ‍Global Climate Monitor es un sitio web para la visualización y descarga de datos climáticos a escala global basado íntegramente en aplicaciones de código abierto.
+
+
+
 
 ## **4. Herramientas** 🔧⚙
 

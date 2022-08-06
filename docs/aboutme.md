@@ -2,7 +2,7 @@
 
 <link href="./stylesheets/alternativo.css" rel="stylesheet">
 
-<p align="center"> <a href="htts://ambarja.github.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/23284899?s=400&u=a4f50618c8abfb1f7d334db5c9cabffbb4c3f5c7&v=4" width="200" class="rounded-circle"   title="ambarja"></a>
+<p align="center"> <a href="htts://ambarja.github.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/23284899?s=400&u=a4f50618c8abfb1f7d334db5c9cabffbb4c3f5c7&v=4" width="200px"  title="ambarja"></a>
 </p>
 
 **Antony Barja** es egresado de la escuela profesional de **Ingeniería Geográfica** de la **Universidad Nacional Mayor de San Marcos-Lima, Perú**.
@@ -20,3 +20,12 @@ Actualmente es consultor en data managment en la **Cruz Roja Alemana**, miembro 
 <a href="http://twitter.com/antony_barja" title="Twitter" target="_blank"><i class="fa fa-twitter-square"></i>&nbsp;&nbsp; Twitter</a><br>
 <a href="https://www.facebook.com/antony.barjaingaruca/" title="Facebook" target="_blank"><i class="fa fa-facebook-square"></i>&nbsp;&nbsp;Facebook</a><br>
 <a href="http://ambarja.github.io/" title="ambarja.github.io" target="_blank"><i class="fa fa-globe"></i>&nbsp;&nbsp; Personal website</a><br>
+
+<table align="center">
+ <tr>
+    <td><img src="./img/German_Red_Cross_Logo.svg" width='145px'/></td>
+    <td><img src="https://raw.githubusercontent.com/healthinnovation/innovar/master/man/figures/logo.png" width='100px'/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/68319150?s=400&u=dcf9b4889e0c4c959949bdfb23494d6ec3224a01&v=4" width='110px'></td>
+ </th>
+</table>
+

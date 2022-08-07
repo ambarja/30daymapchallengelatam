@@ -18,7 +18,6 @@ La idea principal de este challenge es crear y publicar por twitter mapas basado
 <br>
 <img src= "https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/aa27bd9e53314fe8ea714b533080b9e36ff2f3fc/flyer/flyer.svg" width="100%">
 
-<br>
 
 ## 🟠 **Temas** 
 

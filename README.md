@@ -110,9 +110,9 @@ Es un programa informático multiplataforma, de código de uso libre, que permit
 
 Un taller introductorio de QGIS para principiantes.
 
-<div class="video-wrapper">
-  <iframe width="1280" height="500" src="https://www.youtube.com/embed/-7v5qfJYWxA" frameborder="0" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7v5qfJYWxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 
 ## 🟠 **Código de conducta**

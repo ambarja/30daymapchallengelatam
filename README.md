@@ -112,6 +112,17 @@ Un taller introductorio de QGIS para principiantes.
 
 [![Introduction to QGIS](http://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](http://www.youtube.com/watch?v=-7v5qfJYWxA "Introduction to QGIS")
 
+
+## **Música oficial del evento** 🎧
+
+Pensamientos negativos siempre tenemos, quizás el sindrome del impostor alguna vez se apodero de nuestras vidas,quizás estás pasando por ello; sin embargo, siempre hay un nuevo día en donde podrás romper ese hábito autodestrivo, y hoy ese ese momento, no importa si eres nuevo en esto, total siempre se aprende algo nuevo.
+¡Ey! Anímate y cambia habitos, empieza desde ya !!!!!!!. 
+
+<img src="">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22appgn3ficnkwjuv667mawzq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22appgn3ficnkwjuv667mawzq&redirect=true)
+
+
 ## 🟠 **Código de conducta** 📜⚖
 
 No importa si eres un experto en GIS o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:

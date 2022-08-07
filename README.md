@@ -1,5 +1,3 @@
-<h1 align="center"><strong>#30DayMapChallengeLatam 🌎</strong></h1>
-
 <img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/main/docs/img/logo_hfc_home21.png"/>
 
 [![Gitter](https://badges.gitter.im/30DayMapChallengeLatam/comunidad.svg)](https://gitter.im/30DayMapChallengeLatam/comunidad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

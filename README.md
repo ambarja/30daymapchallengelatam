@@ -115,14 +115,17 @@ Un taller introductorio de QGIS para principiantes.
 
 ## **Música oficial del evento** 🎧
 
-<img src="docs/img/30dmclatam.svg">
-
 Pensamientos negativos siempre tenemos, quizás el sindrome del impostor alguna vez se apodero de nuestras vidas,quizás estás pasando por ello; sin embargo, siempre hay un nuevo día en donde podrás romper ese hábito autodestrivo, y hoy ese ese momento, no importa si eres nuevo en esto, total siempre se aprende algo nuevo.
 ¡Ey! Anímate y cambia habitos, empieza desde ya !!!!!!!. 
 
-<img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/main/docs/img/meme.jpeg" width="100%">
-
-</center>
+<table class="default" align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/9a051d63a1d87434d61f913f082b2746165f79cb/docs/img/30dmclatammusica.svg">
+</td>
+    <td><img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/main/docs/img/meme.jpeg" width="75%">
+</td>
+  </tr>
+</table>
 
 ## 🟠 **Código de conducta** 📜⚖
 

@@ -32,7 +32,7 @@ La idea principal de este challenge es crear y publicar por twitter mapas basado
 |   `9`    |  `9/09/2022`    |  `Monócromo`                      |  `Una imagen monocromática se compone de un color (o valores de un color). Entonces, por ejemplo, los mapas en blanco y negro son válidos.`      |
 |   `10`   |  `10/09/2022`   |  `Raster`                         |  `Podemos hacer cualquier mapa donde incluya datos raster, por lo tanto este día el protagonista será el pixel.`    |
 |   `11`   |  `11/09/2022`   |  `3D`                             |  `Muestra un dato, hecho, información o lo que desees en un mapa en 3D.`      |
-|   `12`   |  `12/09/2022`   |  `Población`                      |  `No todo son gráficos de barras o plots. ¿Te has dado cuenta cómo la tasa de poblacional ha venido evolucionando a través del tiempo y de forma espacial?`|
+|   `12`   |  `12/09/2022`   |  `Población`                      |  `No todo son gráficos de barras o plots. ¿Te has dado cuenta cómo la tasa poblacional ha venido evolucionando a través del tiempo y de forma espacial?`|
 |   `13`   |  `13/09/2022`   |  `Data reto 2: REDATAM`           |  `Un mapa donde muestre el potencial de los datos ofrecidos por el portal de REDATAM`      |
 |   `14`   |  `14/09/2022`   |  `Cambio Climático`               |  `El cambio climático es un desafío y tenemos un papel importante para comunicarlo de forma espacial y temporal.` |
 |   `15`   |  `15/09/2022`   |  `Redes`                          |  `Redes y conexiones.`   |
@@ -43,7 +43,7 @@ La idea principal de este challenge es crear y publicar por twitter mapas basado
 |   `20`   |  `20/09/2022`   |  `Heatmap`                        |  `Los mapas de calor (heatmap) son una de las formas más rápidas de visualizar y analizar grandes conjuntos de datos. Descubre alguna problemática de interés y representalo en un mapa.`|
 |   `21`   |  `21/09/2022`   |  `Recursos hídricos`              |  `Océanos, lagos, ríos o algo hídrico completamente diferente.`  |
 |   `22`   |  `22/09/2022`   |  `Mapa sin un software  GIS`      |  `¡Muestra tu creatividad sin un SIG!`|
-|   `23`   |  `23/09/2022`   |  `Mapa coroplético ternarios`     |   `Momento de representar temáticas de importancia mediante mapas coropléticos una composición de tres colores primarios.`|
+|   `23`   |  `23/09/2022`   |  `Mapa coroplético ternarios`     |   `Momento de representar temáticas de importancia mediante mapas coropléticos con una composición de tres colores primarios.`|
 |   `24`   |  `24/09/2022`   |  `Mapa interactivo`               |  `Es momento de generar una interactividad de nuestros mapas con los usuarios atraves de la web.`|
 |   `25`   |  `25/09/2022`   |  `Cartogramas`                          | `Momento de generar algunas distorsiones a nuestros mapas segun los valores cuantitativos asociados a sus respectivas áreas.` |
 |   `26`   |  `26/09/2022`   |  `Mapa tanaka`                          | `¿Sabias que  el método de Tanaka mejora la representación de la topografía en un mapa mediante el uso de líneas de contorno sombreadas? Si no lo sabías, ahora lo sabes!`|
@@ -120,10 +120,10 @@ Pensamientos negativos siempre tenemos, quizás el sindrome del impostor alguna 
 
 <table class="default" align="center">
   <tr align="center">
-    <td align="center"><img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/9a051d63a1d87434d61f913f082b2746165f79cb/docs/img/30dmclatammusica.svg">
-</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/main/docs/img/meme.jpeg" width="75%">
-</td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=v2H4l9RpkwM"><img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/9a051d63a1d87434d61f913f082b2746165f79cb/docs/img/30dmclatammusica.svg">
+</a></td>
+    <td align="center"><a href="#"><img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/main/docs/img/meme.jpeg" width="75%">
+</a></td>
   </tr>
 </table>
 

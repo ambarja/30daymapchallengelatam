@@ -42,13 +42,13 @@ La idea principal de este challenge es crear y publicar por twitter mapas basado
 |   `19`   |  `19/09/2022`   |  `NULL`                           |  `Datos perdidos. Todos odiamos eso, ¿verdad?. Bueno, entonces ¿Cómo mapeamos algo que falta?. ¡Es un reto!.` |
 |   `20`   |  `20/09/2022`   |  `Heatmap`                        |  `Los mapas de calor (heatmap) son una de las formas más rápidas de visualizar y analizar grandes conjuntos de datos. Descubre alguna problemática de interés y representalo en un mapa.`|
 |   `21`   |  `21/09/2022`   |  `Recursos hídricos`              |  `Océanos, lagos, ríos o algo hídrico completamente diferente.`  |
-|   `22`   |  `22/09/2022`   |  `Mapa sin un software  GIS`      |  ¡Muestra tu creatividad sin un SIG!`|
-|   `23`   |  `23/09/2022`   |  `Mapa coroplético ternarios`     |   Momento de representar temáticas de importancia mediante mapas coropléticos una composición de tres colores primarios.|
-|   `24`   |  `24/09/2022`   |  `Mapa interactivo`               |  Es momento de generar una interactividad de nuestros mapas con los usuarios atraves de la web. |
+|   `22`   |  `22/09/2022`   |  `Mapa sin un software  GIS`      |  `¡Muestra tu creatividad sin un SIG!`|
+|   `23`   |  `23/09/2022`   |  `Mapa coroplético ternarios`     |   `Momento de representar temáticas de importancia mediante mapas coropléticos una composición de tres colores primarios.`|
+|   `24`   |  `24/09/2022`   |  `Mapa interactivo`               |  `Es momento de generar una interactividad de nuestros mapas con los usuarios atraves de la web.`|
 |   `25`   |  `25/09/2022`   |  `Cartogramas`                          | `Momento de generar algunas distorsiones a nuestros mapas segun los valores cuantitativos asociados a sus respectivas áreas.` |
 |   `26`   |  `26/09/2022`   |  `Mapa tanaka`                          | `¿Sabias que  el método de Tanaka mejora la representación de la topografía en un mapa mediante el uso de líneas de contorno sombreadas? Si no lo sabías, ahora lo sabes!`|
 |   `27`   |  `27/09/2022`   |  `Data reto 3: Huella de construcción`  | `Un mapa donde muestre las huellas de construcción, datos libres ofrecidos por Microsoft` |
-|   `28`   |  `28/09/2022`   |  `Mapa biscale`                         |  Te has preguntado ¿Cómo varia de forma junta la raza vs los ingresos? Este tipo de mapa captura esto. ¿Conoces otra relación de variables? |
+|   `28`   |  `28/09/2022`   |  `Mapa biscale`                         |  `Te has preguntado ¿Cómo varia de forma junta la raza vs los ingresos? Este tipo de mapa captura esto. ¿Conoces otra relación de variables?` |
 |   `29`   |  `29/09/2022`   |  `Mapas globales`                       |  `El mundo no es plano, por lo que con este mapa puedes enfatizar las diferentes proyecciones carográficas donde mejor se represente nuestro planeta` |
 |   `30`   |  `30/09/2022`   |  `Un mapa libre`                        |  `Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.`|
 

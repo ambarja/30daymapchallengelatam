@@ -17,7 +17,7 @@ La idea principal de este challenge es crear y publicar por twitter mapas basado
 <img src= "https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/aa27bd9e53314fe8ea714b533080b9e36ff2f3fc/flyer/flyer.svg" width="100%">
 
 
-## 🟠 **Temas** 
+## 🟠 **Temas** 📑📌
 
 |   Día    |      Fecha      |                Tema               |        Detalles          |
 | -------- | --------------- | --------------------------------- | ------------------------ |
@@ -53,7 +53,7 @@ La idea principal de este challenge es crear y publicar por twitter mapas basado
 |   `30`   |  `30/09/2022`   |  `Un mapa libre`                        |  `Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.`|
 
 
-## 🟠 **Datos**
+## 🟠 **Datos** 📋
 
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇.
 
@@ -78,7 +78,7 @@ Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m
 * [__Building footprints__:](https://github.com/microsoft/GlobalMLBuildingFootprints) Base de datos de Huellas de edificios realizados por Microsoft de todo el mundo derivadas de imágenes satelitales.
 
 
-## 🟠 **Herramientas**
+## 🟠 **Herramientas** 🔧⚙
 
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán algunas alternativas **libres y de código abierto** que usted podría considerar. Eso no significa que el desafío es esclusivo, en realidad se pueda realizar con cualquier tipo de software o incluso sin ningún software 💡🧮👇.
 
@@ -106,13 +106,13 @@ Es un sistema de gestión de base de datos (DBMS) que es simple, robusto, fácil
 * [__Blender:__ ](https://www.blender.org/)
 Es un programa informático multiplataforma, de código de uso libre, que permite el modelado 3D, animaciones, efectos visuales, entre otros. Con su librería Blender GIS, nos permite realizar diversos modelamientos espaciales.
 
-## 🟠 **Tutoriales**
+## 🟠 **Tutoriales** 🎥 👩‍💻 👨‍💻
 
 Un taller introductorio de QGIS para principiantes.
 
 [![Introduction to QGIS](http://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](http://www.youtube.com/watch?v=-7v5qfJYWxA "Introduction to QGIS")
 
-## 🟠 **Código de conducta**
+## 🟠 **Código de conducta** 📜⚖
 
 No importa si eres un experto en GIS o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:
 
@@ -124,7 +124,7 @@ No importa si eres un experto en GIS o nunca hiciste un mapa, todos son bienveni
 
 
 
-## 🟠 **Referencias**
+## 🟠 **Referencias** 📚
 
   * *Topi Tjukanov, __30DayMapChallenge__, (2020), repositorio de GitHub: https://github.com/tjukanovt/30DayMapChallenge*.
 

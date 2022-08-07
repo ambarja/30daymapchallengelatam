@@ -4,7 +4,7 @@ tags:
   - 30daymapchallengelatam
 ---
 
-## **1. ¿Qué es `30daymapchallenge` y por qué uno en LATAM?**
+## 🟠 **1. ¿Qué es `30daymapchallenge` y por qué uno en LATAM?**
 <div align="center">
  <img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/454b864ffc200324ac82531f27adc54ee92c60a6/images/logo/30DMC_Tag_.svg" width="40%"/>
 </div> 
@@ -36,14 +36,14 @@ Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [**Antony Barja
 
 <mark><h3 align="center"><strong><code>30daymapchallengelatam</code> NO SUSTITUYE A <code>30daymapchallenge</code></strong></h3></mark>
 
-`30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
+`30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. Este evento no requiere alguna inscripción, el único requisito es publicar por twitter usando el hashtag **#30daymapchallengelatam**. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 
-## **2. Flyer oficial de 30daymapchallengelatam** 
+## 🟠 **2. Flyer oficial de 30daymapchallengelatam** 
 Apunta en tu calendario que el mes de septiembre  tienes el `30daymapchallengelatam` y tienes un desafio todos los días!
 
 <img src="https://raw.githubusercontent.com/ambarja/30daymapchallengelatam/e1f4ae41f8e7aefcbf410d95f9eb69b3e3e610c2/flyer/flyer.svg" width="100%"/>
 
-## **3. Datos** 📋
+## 🟠 **3. Datos** 📋
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇.
 
 * [__OpenStreetMap (OSM)__:](https://www.openstreetmap.org/#map=6/-9.301/-75.002)
@@ -64,10 +64,9 @@ Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m
 
 * [__Global Climate Monitor__:](https://www.globalclimatemonitor.org/) ‍Global Climate Monitor es un sitio web para la visualización y descarga de datos climáticos a escala global basado íntegramente en aplicaciones de código abierto.
 
+* [__Building footprints__:](https://github.com/microsoft/GlobalMLBuildingFootprints) Base de datos de Huellas de edificios realizados por Microsoft de todo el mundo derivadas de imágenes satelitales.
 
-
-
-## **4. Herramientas** 🔧⚙
+## 🟠 **4. Herramientas** 🔧⚙
 
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán algunas alternativas **libres y de código abierto** que usted podría considerar. Eso no significa que el desafío es esclusivo, en realidad se pueda realizar con cualquier tipo de software o incluso sin ningún software 💡🧮👇.
 
@@ -95,7 +94,7 @@ Es un sistema de gestión de base de datos (DBMS) que es simple, robusto, fácil
 * [__Blender:__ ](https://www.blender.org/)
 Es un programa informático multiplataforma, de código de uso libre, que permite el modelado 3D, animaciones, efectos visuales, entre otros. Con su librería Blender GIS, nos permite realizar diversos modelamientos espaciales.
 
-## **5. Tutoriales** 🎥 👩‍💻 👨‍💻
+## 🟠 **5. Tutoriales** 🎥 👩‍💻 👨‍💻
 
 Un taller introductorio de QGIS para principiantes.
 
@@ -103,7 +102,7 @@ Un taller introductorio de QGIS para principiantes.
   <iframe width="1280" height="500" src="https://www.youtube.com/embed/-7v5qfJYWxA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## **6. Código de conduta** 📜⚖
+## 🟠 **6. Código de conduta** 📜⚖
 No importa si eres un experto en GIS o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:
 
 - Todos los mapas que publiques deben ser su trabajo original. No robes contenido de otros.

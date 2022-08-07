@@ -26,30 +26,30 @@ La idea principal de este challenge es crear y publicar por twitter mapas basado
 |   `3`    |  `3/09/2022`    |  `Polígonos`                      |  `Un mapa con polígonos.`|
 |   `4`    |  `4/09/2022`    |  `Hexágonos`                      |  `Un mapa con hexágonos.`    |
 |   `5`    |  `5/09/2022`    |  `Data reto 1: Open Street Map`   |  `Un mapa donde muestre el potencial de Open Street Map`     |
-|   `6`    |  `6/09/2022`    |  `Azul`                           |  `Un mapa con la temática del color azul o un mapa donde predomine el rojo o derivados.`     |
+|   `6`    |  `6/09/2022`    |  `Azul`                           |  `Un mapa con la temática del color azul o un mapa donde predomine el azul o derivados.`     |
 |   `7`    |  `7/09/2022`    |  `Verde`                          |  `Un mapa con la temática del color verde o un mapa donde predomine el verde o derivados.`   |
-|   `8`    |  `8/09/2022`    |  `Rojo`                           |  `Un mapa con la temática del color rojo o un mapa donde predomine el amarillo o derivados.`     |
+|   `8`    |  `8/09/2022`    |  `Rojo`                           |  `Un mapa con la temática del color rojo o un mapa donde predomine el rojo o derivados.`     |
 |   `9`    |  `9/09/2022`    |  `Monócromo`                      |  `Una imagen monocromática se compone de un color (o valores de un color). Entonces, por ejemplo, los mapas en blanco y negro son válidos.`      |
-|   `10`   |  `10/09/2022`   |  `Raster`                         |  `Podemos hacer cualquier mapa incluyendo datos raster, sin embargo, ¡este día el protagonista será el pixel!.`    |
-|   `11`   |  `11/09/2022`   |  `3D`                             |  `¡Muestra un dato, hecho, información o lo que desees en un mapa en 3D! Existe documentación oficial en QGIS para que tengas referencias.`      |
-|   `12`   |  `12/09/2022`   |  `Población`                      | `No todo son gráficos de barras o plots. ¿Te has dado cuenta cómo la tasa poblacional ha venido evolucionando a través del tiempo, espacialmente?`|
-|   `13`   |  `13/09/2022`   |  `Data reto 2: REDATAM`           |  `Un mapa donde muestre el potencial de los datos ofrecidos por REDATAM`      |
-|   `14`   |  `14/09/2022`   |  `Cambio Climático`               |  `El cambio climático es un desafío y tenemos un papel importante para comunicarlo espacialmente.` |
+|   `10`   |  `10/09/2022`   |  `Raster`                         |  `Podemos hacer cualquier mapa donde incluya datos raster, por lo tanto este día el protagonista será el pixel.`    |
+|   `11`   |  `11/09/2022`   |  `3D`                             |  `Muestra un dato, hecho, información o lo que desees en un mapa en 3D.`      |
+|   `12`   |  `12/09/2022`   |  `Población`                      |  `No todo son gráficos de barras o plots. ¿Te has dado cuenta cómo la tasa de poblacional ha venido evolucionando a través del tiempo y de forma espacial?`|
+|   `13`   |  `13/09/2022`   |  `Data reto 2: REDATAM`           |  `Un mapa donde muestre el potencial de los datos ofrecidos por el portal de REDATAM`      |
+|   `14`   |  `14/09/2022`   |  `Cambio Climático`               |  `El cambio climático es un desafío y tenemos un papel importante para comunicarlo de forma espacial y temporal.` |
 |   `15`   |  `15/09/2022`   |  `Redes`                          |  `Redes y conexiones.`   |
-|   `16`   |  `16/09/2022`   |  `Áreas naturales`                |  `Las áreas naturales tienden a verse hermosas en los mapas. Más aún si es con software de código de uso libre.`     |
+|   `16`   |  `16/09/2022`   |  `Áreas naturales`                |  `Las áreas naturales son espacios de gran importancia para la conservación de la biodiversidad, ¿Sabes de alguno de ellos? Representalo en un mapa.`|
 |   `17`   |  `17/09/2022`   |  `Urbano/Rural`                   |  `Un mapa donde muestre los espacios urbanos, rurales o ambos.`   |
 |   `18`   |  `18/09/2022`   |  `Usos del suelo`                 |  `¿Cuáles son los tipos de usos de suelo que se aplican en ciudades, regiones, países o continentes? ¿Cómo ha cambiado en el tiempo?.` |
-|   `19`   |  `19/09/2022`   |  `NULL`                           |  `Datos perdidos. Todos odiamos eso, ¿verdad?. Bueno, entonces ¿cómo mapeamos algo que falta?. ¡Es un reto!.` |
-|   `20`   |  `20/09/2022`   |  `Heatmap`                        | `¡Muestra tu creatividad sin un SIG!`|
+|   `19`   |  `19/09/2022`   |  `NULL`                           |  `Datos perdidos. Todos odiamos eso, ¿verdad?. Bueno, entonces ¿Cómo mapeamos algo que falta?. ¡Es un reto!.` |
+|   `20`   |  `20/09/2022`   |  `Heatmap`                        |  `Los mapas de calor (heatmap) son una de las formas más rápidas de visualizar y analizar grandes conjuntos de datos. Descubre alguna problemática de interés y representalo en un mapa.`|
 |   `21`   |  `21/09/2022`   |  `Recursos hídricos`              |  `Océanos, lagos, ríos o algo hídrico completamente diferente.`  |
-|   `22`   |  `22/09/2022`   |  `Mapa sin un software  GIS`      |  `Ya sean mapas estáticos o dinámicos, existen muchas formas de realizar mapas que eduquen. Muestra tu talento a los alumnos :)`     |
-|   `23`   |  `23/09/2022`   |  `Mapa coroplético ternarios`     |  `Los límites están a nuestro alrededor. Algunos de ellos son visibles y otros están en nuestra cabeza, o corazón.`      |
-|   `24`   |  `24/09/2022`   |  `Mapa interactivo`               |  `Hermosas sombras, bellos contornos, altas montañas o valles bajos. Los mapas de elevación lo dicen todo.`|
-|   `25`   |  `25/09/2022`   |  `Cartogramas`                          |  `Estamos muy cansados de ver este tema por todos los lugares, pero no podemos omitirlo. Vamos, poco a poco va decreciendo la curva.`|
-|   `26`   |  `26/09/2022`   |  `Mapa tanaka`                          |  `Este día será un **#CaféConPluggins** exclusivo para la mapatón.`|
-|   `27`   |  `27/09/2022`   |  `Data reto 3: Huella de construcción`  |  `¿A qué le llamamos "grandes datos espaciales" significativos? ¿Qué tipo de datos espaciales son "pequeños" pero interesantes?.` |
-|   `28`   |  `28/09/2022`   |  `Mapa biscale`                         |  `Mapas mentales, mapas de planetas, mapas de bacterias microscópicas o tal vez incluso algo más extraño.` |
-|   `29`   |  `29/09/2022`   |  `Mapas globales`                       |  `El mundo no es plano, por lo que con este mapa puedes enfatizar la redondez de nuestro planeta. Puede utilizar, por ejemplo, algunos plugins de QGIS.` |
+|   `22`   |  `22/09/2022`   |  `Mapa sin un software  GIS`      |  ¡Muestra tu creatividad sin un SIG!`|
+|   `23`   |  `23/09/2022`   |  `Mapa coroplético ternarios`     |   Momento de representar temáticas de importancia mediante mapas coropléticos una composición de tres colores primarios.|
+|   `24`   |  `24/09/2022`   |  `Mapa interactivo`               |  Es momento de generar una interactividad de nuestros mapas con los usuarios atraves de la web. |
+|   `25`   |  `25/09/2022`   |  `Cartogramas`                          | `Momento de generar algunas distorsiones a nuestros mapas segun los valores cuantitativos asociados a sus respectivas áreas.` |
+|   `26`   |  `26/09/2022`   |  `Mapa tanaka`                          | `¿Sabias que  el método de Tanaka mejora la representación de la topografía en un mapa mediante el uso de líneas de contorno sombreadas? Si no lo sabías, ahora lo sabes!`|
+|   `27`   |  `27/09/2022`   |  `Data reto 3: Huella de construcción`  | `Un mapa donde muestre las huellas de construcción, datos libres ofrecidos por Microsoft` |
+|   `28`   |  `28/09/2022`   |  `Mapa biscale`                         |  Te has preguntado ¿Cómo varia de forma junta la raza vs los ingresos? Este tipo de mapa captura esto. ¿Conoces otra relación de variables? |
+|   `29`   |  `29/09/2022`   |  `Mapas globales`                       |  `El mundo no es plano, por lo que con este mapa puedes enfatizar las diferentes proyecciones carográficas donde mejor se represente nuestro planeta` |
 |   `30`   |  `30/09/2022`   |  `Un mapa libre`                        |  `Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.`|
 
 

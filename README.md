@@ -7,15 +7,13 @@
 
 `30DayMapChallengeLatam` es una iniciativa propuesta [**Antony Barja**]() con el objetivo de facilitar la difusión y realización de este *experimento de mapeo social en Latinoámerica*, teniendo como fin incrementar la participación de usuarios de América Latina para los proximos eventos de `30daymapchallenge`.
 
-<center><mark><strong>30daymapchallengelatam NO SUSTITUYE A 30daymapchallenge</strong></mark></center>
+<h3 align="center"><strong>30daymapchallengelatam NO SUSTITUYE A 30daymapchallenge</strong></h3>
 
-La idea principal de este challenge es crear y publicar por twitter mapas basados ​​en diferentes temas según las reglas establecidas por cada día del mes de septiembre usando el hashtag #30DayMapChallengeLatam.
+La idea principal de este challenge es crear y publicar por twitter mapas basados ​​en diferentes temas según las reglas establecidas por cada día del mes de septiembre usando el hashtag #30DayMapChallengeLatam. Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 
-Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
+**¡Feliz mapeo!**
 
-¡Feliz mapeo!
-
-¡Gracias por participar en el desafío 2022!
+**¡Gracias por participar en el desafío 2022!**
 
 ## 🟠 **Temas** 
 

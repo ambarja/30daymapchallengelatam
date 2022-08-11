@@ -115,8 +115,8 @@ Un taller introductorio de QGIS para principiantes.
 
 ## **Música oficial del evento** 🎧
 
-Pensamientos negativos siempre tenemos, quizás el sindrome del impostor alguna vez se apodero de nuestras vidas,quizás estás pasando por ello; sin embargo, siempre hay un nuevo día en donde podrás romper ese hábito autodestrivo, y hoy ese ese momento, no importa si eres nuevo en esto, total siempre se aprende algo nuevo.
-¡Ey! Anímate y cambia habitos, empieza desde ya !!!!!!!. 
+Pensamientos negativos siempre tenemos, quizás el síndrome del impostor alguna vez se apodero de nuestras vidas, quizás estás pasando por ello; sin embargo, siempre hay un nuevo día en donde podrás romper ese hábito autodestrivo, y hoy ese ese momento, no importa si eres nuevo en esto, total siempre se aprende algo nuevo.
+¡Ey! Anímate y cambia esos hábitos, empieza desde ya !!!!!!!. 
 
 <table class="default" align="center">
   <tr align="center">

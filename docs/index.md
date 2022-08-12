@@ -32,7 +32,7 @@ hide:
   <br>
   <hr>
   <h2 class="main_title">  <a href="#" title="Patrocinio" target="_parent">Patrocinio</a></h2>
-  <h3><i>Un cordial agradecimientos a las instituciones que apoyan con la difusión del evento</i></h3>
+  <h3><i>Un cordial agradecimiento a las instituciones que apoyan con la difusión del evento</i></h3>
   <img src="./img/footer_respaldo.svg" style="border:0px;background-color:#fff0;padding:0px;box-shadow:0 0px 0px rgb(0 0 0 / 65%);">
    
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

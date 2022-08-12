@@ -15,6 +15,7 @@ hide:
 <header>
   <!-- css home  -->
 <link rel="stylesheet" href="stylesheets/hfc_home.css"> 
+<link rel="stylesheet" href="stylesheets/footer.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" type="text/css"/> 
 <!-- Masthead-->
@@ -32,7 +33,7 @@ hide:
   <hr>
   <h2 class="main_title">  <a href="#" title="Patrocinio" target="_parent">Patrocinio</a></h2>
   <h3><i>Un cordial agradecimientos a las instituciones que apoyaron con la difusión del evento</i></h3>
-  <img src="./img/footer_respaldo.svg">
+  <img src="./img/footer_respaldo.svg" class="imagen">
    
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body>  

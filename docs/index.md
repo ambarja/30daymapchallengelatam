@@ -30,80 +30,13 @@ hide:
   <h5 class="sub_title">🗺️ Mapatón orientada a compartir mapas temáticos por cada día del mes de septiembre del presente año 🗓️ basados en las reglas propuestas del reto. Para más información ve a la sección de <a href="https://ambarja.github.io/30daymapchallengelatam/presentacion/">presentación</a></h5>
   <br>
   <hr>
-  <h3 class="main_title">  <a href="#" title="Patrocinio y Auspiciadores" target="_parent">Patrocinio y Auspiciadores</a></h3>
-
- <hr>
+  <h2 class="main_title">  <a href="#" title="Patrocinio" target="_parent">Patrocinio</a></h2>
+  <h3><i>Un cordial agradecimientos a las instituciones que apoyaron con la difusión del evento</i></h3>
+  <img src="./img/footer_respaldo.svg">
    
-<!-- inizio testo Gter -->
-<!-- <a href="https://github.com/pigreco/geobreack_02_by_Gter" target="_blank"><img class="center" src="img/geobreak_02_gter.jpg" alt="GeoBreak 02 Gter | Programma" title="GeoBreak 02 Gter | Programma"/></a>
-<h5 class="service_title">
- <a href="https://mailchi.mp/a50b90870c50/in-arrivo-primo-geobreak-ottobre?fbclid=IwAR1ZFUGegfy9XKiW0ien4DFi25dvEbqh3FWgUPudG7_1aMhukBWN4PRUES8" title="GeoBreak 02 Gter | Programma" target="_blank">Programma</a><br>
-  <!--  fine testo Gter -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body>  
-<link href="./stylesheets/alternativo.css" rel="stylesheet">
-  <!-- Team -->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-      <!--    <h2 class="section-heading text-uppercase">CHI SIAMO</h2> -->
-          <h3 class="section-subheading text-muted">Un cordial agradecimiento a las siguientes organizaciones  e instituciones.</h3>
-        </div>
-      </div>
-      <br>
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="team-member">
-            <img class="mx-auto rounded-circle" src="https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg" alt="osm">
-            <h5 class="text-muted">OSM-Perú</h5>
-            <p class="text-muted">
-               <a href="#" title="Open Street Map" target="_self">
-               Open Street Map - Peru
-               </a>
-            </p> 
-				    <div>
-                <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-				    </div>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="team-member">
-                <img class="mx-auto rounded-circle" src="./img/helpgis.jpg" alt="">
-                    <h5 class="text-muted">HelpGIS</a></h5>
-                      <p class="text-muted"><a href="#" title="helpgis" target="_self">GIS pata todos </a></p> 
-			<div>
-                <a href="#" title="helpgis" target="_blank">
-                 <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span> </a>
-				</div>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="team-member">
-            <img class="mx-auto rounded-circle" src="./img/geografos_sjl.jpg" alt="">
-                <h5 class="text-muted">Geógrafos SJL</h5>
-                    <p class="text-muted"><a href="#" title="geografos_sjl" target="_self">Geógrafos desde San Juan de Lurigancho</a></p> 
-			 <div><a href="" title="geografos_sjl" target="_blank">
-                 <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span></a>
-              </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-8 mx-auto text-center">
-        </div>
-      </div>
-    </div>
+
 </body> 
 
 <div class="container">
@@ -120,11 +53,7 @@ hide:
       <br>
       La versión modificada del formato <a href="https://squidfunk.github.io/mkdocs-material/" title="MkDocs" target="_blank">MkDocs</a>
       fue realizada por la comunidad <a href="https://hfcqgis-md.readthedocs.io/it/latest/ods/" title="OpenDataSicilia">
-      <strong>OpenDataSicilia</strong></a>, en particular por:<br>
-       <a href="https://twitter.com/aborruso" title="Andrea Borruso" target="_blank">Andrea Borruso</a>,
-       <a href="https://twitter.com/totofiandaca" title="Totò Fiandaca" target="_blank">Totò Fiandaca</a> y 
-       <a href="https://twitter.com/gbvitrano" title="Giovan Battista Vitrano" target="_blank">Giovan Battista Vitrano</a> 
-       utilizando el tema <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      <strong>OpenDataSicilia</strong></a> utilizando el tema <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
        Material for MkDocs
        </a></p>
       </div> 

@@ -7,7 +7,7 @@
 
 <h3 align="center"><strong>30daymapchallengelatam NO SUSTITUYE A 30daymapchallenge</strong></h3>
 
-La idea principal de este challenge es crear y publicar por twitter mapas basados ​​en diferentes temas según las reglas establecidas por cada día del mes de septiembre usando el hashtag **#30daymapchallengelatam**. Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
+La idea principal de este challenge es crear y publicar por linkedin,facebook o twitter mapas basados ​​en diferentes temas según las reglas establecidas por cada día del mes de septiembre usando el hashtag **#30daymapchallengelatam**. Este evento no requiere alguna inscripción. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
 
 **¡Feliz mapeo!**
 

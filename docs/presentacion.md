@@ -36,7 +36,7 @@ Finalmente, `30daymapchallengelatam` es una iniciativa propuesta [**Antony Barja
 
 <mark><h3 align="center"><strong><code>30daymapchallengelatam</code> NO SUSTITUYE A <code>30daymapchallenge</code></strong></h3></mark>
 
-`30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. Este evento no requiere alguna inscripción, el único requisito es publicar por linkedin,facebook o twitter usando el hashtag **#30daymapchallengelatam**. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), ánimate a participar y se parte de este movimiento dentro de Latinoamérica.
+`30daymapchallengelatam` podría ser cosiderada como una forma de entramiento para la participación del evento oficial de 30daymapchallenge. Este evento no requiere alguna inscripción, el único requisito es publicar por linkedin,facebook o twitter usando el hashtag **#30daymapchallengelatam**. No hay restricciones sobre las herramientas, las tecnologías o los datos que se utilizan en tus mapas. Hacer menos de 30 también está bien (¡Hacer los 30 es muy difícil!), anímate a participar y se parte de este movimiento dentro de Latinoamérica.
 
 ## 🟠 **2. Flyer oficial de 30daymapchallengelatam** 
 Apunta en tu calendario que el mes de septiembre  tienes el `30daymapchallengelatam` y tienes un desafio todos los días!

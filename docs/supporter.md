@@ -26,6 +26,7 @@ nro| contribución|país | ciudad  | GitHub | Versión
 1 | Hugo Añamuro |Perú | Puno | Recursos de fuentes abiertas y redacción | v.1.0.0
 2 | Angelo Tena  | Perú | Lima | Ideas y propuestas para el challenge | v.1.0.0
 3 | Mario Caceres | Perú | Lima | Difusión por tiktok | v.1.0.0 
+
 Si mi trabajo de los `30daymapchallengelatam` le ha sido de utilidad, cosidere la posibilidad de contribuir al mantenimiento y soporte del proyecto mediante un cordial taza de café.
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Apoyame con una taza de café', '#000000', 'B0B56J9J9');kofiwidget2.draw();</script> 

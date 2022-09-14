@@ -124,7 +124,8 @@ nav:
         - Presentación: presentacion.md
         - Licencia: LICENSE_my.md
 
-    - 2022 Challenge: maps2022.md
+    - 2022 Challenge:
+        - día 01: dia01.md
     - Estadística: estadistica2022.md
     - Acerca de mi:
         - Presentación: aboutme.md

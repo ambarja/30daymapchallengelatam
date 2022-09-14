@@ -16,4 +16,4 @@ Mapa | Usuario | Compartido | Me gusta
 ![](dia01/5.jpeg) |  [Rrody Holiver](https://www.linkedin.com/posts/rrody-holiver-machaca-pillaca-831592157_30daymapchallengelatam-qgis-gbif-activity-6971242938471219200-pfLE?utm_source=share&utm_medium=member_desktop)| 1 | 12
 ![](dia01/6.jpeg) |  [Bryan NIcasio](https://www.linkedin.com/posts/brayannicasio_30daymapchallengelatam-qgis-peraeq-activity-6971330172444622848-qA6z?utm_source=share&utm_medium=member_desktop) | 0 | 12
 ![](dia01/7.jpeg) |  [Javier Vicente](https://www.linkedin.com/posts/jvquispev_30daymapchallengelatam-maps-mapas-activity-6971318554050629632-EGNH?utm_source=share&utm_medium=member_desktop) | 18 | 1
-![](dia01/8.jpeg) | []() | 0 | 9 
+![](dia01/8.jpeg) | [Luz Anampa](https://www.linkedin.com/posts/luz-anampa_map-maps-mapa-activity-6971731135252815872-2J1g/?utm_source=share&utm_medium=member_android) | 0 | 9 

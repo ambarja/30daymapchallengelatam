@@ -1,0 +1,41 @@
+<!-- Elements added to main will be displayed on all pages -->
+{% extends "base.html" %}
+
+<!-- Announcement bar -->
+{% block announce %}
+<style>
+ .md-banner {
+  background-color: #000000cb;
+</style><strong>Si 30daymapchallengelatam le ha sido utilidad, considere la posibilidad de contribuir al proyecto</strong>
+<a href="{{ config.site_url}}contributing/" class="nomobile" title="Contribuir a 30daymapchallengelatam"
+ target="_parent"><strong>lea la sección de apoyo.</strong></a> <a href="https://paypal.me/ambarja" class="nomobile"
+ target="_blank" title="Donación a 30daymapchallengelatam por Paypal">&nbsp;<i class="fab fa-paypal" aria-hidden="true"></i></a>
+{% endblock %}
+
+{% block libs %}
+{{ super() }}
+<!-- script top	-->
+{% include "partials/script_top.html" %}
+{% endblock %}
+
+<!-- blocco meta tag e social -->
+{% block extrahead %}
+<!-- Social card -->
+{% include "partials/social_card.html" %}
+<!-- Meta tags -->
+{% include "partials/metatag_rss.html" %}
+{% endblock %}
+
+{% block content %}
+<!-- pulsante stampa 	-->
+
+{{ super() }}
+<!-- zoomn image  -->
+{% include "partials/zoom_image_simple-lightbox.html" %}
+{% endblock content %}
+
+{% block scripts %}
+{{ super() }}
+<!-- script bottom	-->
+{% include "partials/script_bottom.html" %}
+{% endblock %}
